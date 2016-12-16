@@ -3219,8 +3219,8 @@ T4182	Heliopetes macaira	T1684	species	North American Butterfly Association, Inc
 T4183	Hesperia attalus	T1687	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
 T4184	Hesperia columbia	T1688	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
 T4185	Hesperia comma	T1689	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
-T4186	Hesperia comma	T1690	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
-T4187	Hesperia comma	T1691	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
+T4186	Hesperia comma colorado	T1690	subspecies	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
+T4187	Hesperia comma assiniboia	T1691	subspecies	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
 T4188	Hesperia dacotae	T1692	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
 T4189	Hesperia juba	T1693	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
 T4190	Hesperia leonardus	T1694	species	North American Butterfly Association, Inc. 2001-2016.  Checklist of North American Butterflies. Occurring North of Mexico - Edition 2.3  http://www.naba.org/pubs/enames2_3.html.
@@ -4317,138 +4317,144 @@ T5290	Vanessa virginiensis	T3741	species	Illinois Butterfly Monitoring Network
 T5291	Poanes yehl	T4255	species	Illinois Butterfly Monitoring Network
 T5292	Poanes zabulon	T4256	species	Illinois Butterfly Monitoring Network
 T5293	Erynnis zarucco	T4165	species	Illinois Butterfly Monitoring Network
-T5330	Limenitis arthemis arthemis		subspecies	Michigan Butterfly Network
-T5331	Limenitis arthemis astyanax		subspecies	Michigan Butterfly Network
-T5332	Satyrium favonius ontario		subspecies	Michigan Butterfly Network
-T5333	Lycaeides melissa samuelis		subspecies	Michigan Butterfly Network
-T5334	Achalarus lyciades		species	Michigan Butterfly Network
-T5335	Amblyscirtes hegon		species	Michigan Butterfly Network
-T5336	Amblyscirtes vialis		species	Michigan Butterfly Network
-T5337	Anaea andria		species	Michigan Butterfly Network
-T5338	Anatrytone logan		species	Michigan Butterfly Network
-T5339	Ancyloxypha numitor		species	Michigan Butterfly Network
-T5340	Anthocharis midea		species	Michigan Butterfly Network
-T5341	Asterocampa celtis		species	Michigan Butterfly Network
-T5342	Asterocampa clyton		species	Michigan Butterfly Network
-T5343	Atalopedes campestris		species	Michigan Butterfly Network
-T5344	Atrytonopsis hianna		species	Michigan Butterfly Network
-T5345	Battus philenor		species	Michigan Butterfly Network
-T5346	Boloria bellona		species	Michigan Butterfly Network
-T5347	Boloria eunomia		species	Michigan Butterfly Network
-T5348	Boloria selene		species	Michigan Butterfly Network
-T5349	Calephelis muticum		species	Michigan Butterfly Network
-T5350	Callophrys augustinus		species	Michigan Butterfly Network
-T5351	Callophrys gryneus		species	Michigan Butterfly Network
-T5352	Callophrys henrici		species	Michigan Butterfly Network
-T5353	Callophrys irus		species	Michigan Butterfly Network
-T5354	Callophrys niphon		species	Michigan Butterfly Network
-T5355	Callophrys polios		species	Michigan Butterfly Network
-T5356	Carterocephalus palaemon		species	Michigan Butterfly Network
-T5357	Celastrina ladon/neglecta		species	Michigan Butterfly Network
-T5358	Cercyonis pegala		species	Michigan Butterfly Network
-T5359	Chlosyne gorgone		species	Michigan Butterfly Network
-T5360	Chlosyne harrisii		species	Michigan Butterfly Network
-T5361	Chlosyne nycteis		species	Michigan Butterfly Network
-T5362	Coenonympha tullia		species	Michigan Butterfly Network
-T5363	Colias cesonia		species	Michigan Butterfly Network
-T5364	Colias eurytheme		species	Michigan Butterfly Network
-T5365	Colias interior		species	Michigan Butterfly Network
-T5366	Colias philodice		species	Michigan Butterfly Network
-T5367	Danaus plexippus		species	Michigan Butterfly Network
-T5368	Enodia anthedon		species	Michigan Butterfly Network
-T5369	Epargyreus clarus		species	Michigan Butterfly Network
-T5370	Erora laeta		species	Michigan Butterfly Network
-T5371	Erynnis baptisiae		species	Michigan Butterfly Network
-T5372	Erynnis brizo		species	Michigan Butterfly Network
-T5373	Erynnis horatius		species	Michigan Butterfly Network
-T5374	Erynnis icelus		species	Michigan Butterfly Network
-T5375	Erynnis juvenalis		species	Michigan Butterfly Network
-T5376	Erynnis lucilius		species	Michigan Butterfly Network
-T5377	Erynnis martialis		species	Michigan Butterfly Network
-T5378	Euchloe olympia		species	Michigan Butterfly Network
-T5379	Euphydryas phaeton		species	Michigan Butterfly Network
-T5380	Euphyes bimacula		species	Michigan Butterfly Network
-T5381	Euphyes conspicua		species	Michigan Butterfly Network
-T5382	Euphyes dion		species	Michigan Butterfly Network
-T5383	Euphyes dukesi		species	Michigan Butterfly Network
-T5384	Euphyes vestris		species	Michigan Butterfly Network
-T5385	Euptoieta claudia		species	Michigan Butterfly Network
-T5386	Eurema lisa		species	Michigan Butterfly Network
-T5387	Eurytides marcellus		species	Michigan Butterfly Network
-T5388	Everes comyntas		species	Michigan Butterfly Network
-T5389	Feniseca tarquinius		species	Michigan Butterfly Network
-T5390	Glaucopsyche lygdamus		species	Michigan Butterfly Network
-T5391	Hemiargus isola		species	Michigan Butterfly Network
-T5392	Hesperia comma		species	Michigan Butterfly Network
-T5393	Hesperia leonardus		species	Michigan Butterfly Network
-T5394	Hesperia metea		species	Michigan Butterfly Network
-T5395	Hesperia ottoe		species	Michigan Butterfly Network
-T5396	Hesperia sassacus		species	Michigan Butterfly Network
-T5397	Hylephila phyleus		species	Michigan Butterfly Network
-T5398	Junonia coenia		species	Michigan Butterfly Network
-T5399	Libytheana carinenta		species	Michigan Butterfly Network
-T5400	Limenitis archippus		species	Michigan Butterfly Network
-T5401	Lycaena dione		species	Michigan Butterfly Network
-T5402	Lycaena dorcas		species	Michigan Butterfly Network
-T5403	Lycaena epixanthe		species	Michigan Butterfly Network
-T5404	Lycaena helloides		species	Michigan Butterfly Network
-T5405	Lycaena hyllus		species	Michigan Butterfly Network
-T5406	Lycaena phlaeas		species	Michigan Butterfly Network
-T5407	Megisto cymela		species	Michigan Butterfly Network
-T5408	Nathalis iole		species	Michigan Butterfly Network
-T5409	Neonympha mitchellii		species	Michigan Butterfly Network
-T5410	Nymphalis antiopa		species	Michigan Butterfly Network
-T5411	Nymphalis milberti		species	Michigan Butterfly Network
-T5412	Nymphalis vaualbum		species	Michigan Butterfly Network
-T5413	Oeneis chryxus		species	Michigan Butterfly Network
-T5414	Oeneis jutta		species	Michigan Butterfly Network
-T5415	Papilio canadensis		species	Michigan Butterfly Network
-T5416	Papilio cresphontes		species	Michigan Butterfly Network
-T5417	Papilio glaucus		species	Michigan Butterfly Network
-T5418	Papilio polyxenes		species	Michigan Butterfly Network
-T5419	Papilio troilus		species	Michigan Butterfly Network
-T5420	Parrhasius m-album		species	Michigan Butterfly Network
-T5421	Phoebis sennae		species	Michigan Butterfly Network
-T5422	Pholisora catullus		species	Michigan Butterfly Network
-T5423	Phyciodes batesii		species	Michigan Butterfly Network
-T5424	Phyciodes selenis/cocyta		species	Michigan Butterfly Network
-T5425	Phyciodes tharos		species	Michigan Butterfly Network
-T5426	Pieris napi		species	Michigan Butterfly Network
-T5427	Pieris rapae		species	Michigan Butterfly Network
-T5428	Pieris virginiensis		species	Michigan Butterfly Network
-T5429	Plebejus saepiolus		species	Michigan Butterfly Network
-T5430	Poanes hobomok		species	Michigan Butterfly Network
-T5431	Poanes massasoit		species	Michigan Butterfly Network
-T5432	Poanes viator		species	Michigan Butterfly Network
-T5433	Poanes zabulon		species	Michigan Butterfly Network
-T5434	Polites mystic		species	Michigan Butterfly Network
-T5435	Polites origenes		species	Michigan Butterfly Network
-T5436	Polites peckius		species	Michigan Butterfly Network
-T5437	Polites themistocles		species	Michigan Butterfly Network
-T5438	Polygonia comma		species	Michigan Butterfly Network
-T5439	Polygonia interrogationis		species	Michigan Butterfly Network
-T5440	Polygonia progne		species	Michigan Butterfly Network
-T5441	Pompeius verna		species	Michigan Butterfly Network
-T5442	Pontia protodice		species	Michigan Butterfly Network
-T5443	Pyrgus centaureae		species	Michigan Butterfly Network
-T5444	Pyrgus communis		species	Michigan Butterfly Network
-T5445	Satyrium acadica		species	Michigan Butterfly Network
-T5446	Satyrium calanus		species	Michigan Butterfly Network
-T5447	Satyrium caryaevorum		species	Michigan Butterfly Network
-T5448	Satyrium edwardsii		species	Michigan Butterfly Network
-T5449	Satyrium liparops		species	Michigan Butterfly Network
-T5450	Satyrium titus		species	Michigan Butterfly Network
-T5451	Satyrodes appalachia		species	Michigan Butterfly Network
-T5452	Satyrodes eurydice		species	Michigan Butterfly Network
-T5453	Speyeria aphrodite		species	Michigan Butterfly Network
-T5454	Speyeria atlantis		species	Michigan Butterfly Network
-T5455	Speyeria cybele		species	Michigan Butterfly Network
-T5456	Speyeria idalia		species	Michigan Butterfly Network
-T5457	Strymon melinus		species	Michigan Butterfly Network
-T5458	Thorybes bathyllus		species	Michigan Butterfly Network
-T5459	Thorybes pylades		species	Michigan Butterfly Network
-T5460	Thymelicus lineola		species	Michigan Butterfly Network
-T5461	Vanessa atalanta		species	Michigan Butterfly Network
-T5462	Vanessa cardui		species	Michigan Butterfly Network
-T5463	Vanessa virginiensis		species	Michigan Butterfly Network
-T5464	Wallengrenia egeremet		species	Michigan Butterfly Network
+T5330	Limenitis arthemis arthemis	T3655	subspecies	Michigan Butterfly Network
+T5465	Limenitis arthemis arthemis	T5309	subspecies	Michigan Butterfly Network
+T5466	Limenitis arthemis arthemis	T5311	subspecies	Michigan Butterfly Network
+T5331	Limenitis arthemis astyanax	T5304	subspecies	Michigan Butterfly Network
+T5467	Limenitis arthemis astyanax	T5310	subspecies	Michigan Butterfly Network
+T5468	Limenitis arthemis astyanax	T5312	subspecies	Michigan Butterfly Network
+T5332	Satyrium favonius ontario	T3881	subspecies	Michigan Butterfly Network
+T5333	Lycaeides melissa samuelis	T3831	subspecies	Michigan Butterfly Network
+T5334	Achalarus lyciades	T4055	species	Michigan Butterfly Network
+T5335	Amblyscirtes hegon	T4082	species	Michigan Butterfly Network
+T5336	Amblyscirtes vialis	T4092	species	Michigan Butterfly Network
+T5337	Anaea andria	T3538	species	Michigan Butterfly Network
+T5338	Anatrytone logan	T4093	species	Michigan Butterfly Network
+T5339	Ancyloxypha numitor	T4096	species	Michigan Butterfly Network
+T5340	Anthocharis midea	T3943	species	Michigan Butterfly Network
+T5341	Asterocampa celtis	T3545	species	Michigan Butterfly Network
+T5342	Asterocampa clyton	T3546	species	Michigan Butterfly Network
+T5343	Atalopedes campestris	T4103	species	Michigan Butterfly Network
+T5344	Atrytonopsis hianna	T4108	species	Michigan Butterfly Network
+T5345	Battus philenor	T4016	species	Michigan Butterfly Network
+T5346	Boloria bellona	T3553	species	Michigan Butterfly Network
+T5347	Boloria eunomia	T3557	species	Michigan Butterfly Network
+T5348	Boloria selene	T3564	species	Michigan Butterfly Network
+T5349	Calephelis muticum	T3924	species	Michigan Butterfly Network
+T5350	Callophrys augustinus	T3750	species	Michigan Butterfly Network
+T5469	Callophrys gryneus	T5323	species	Michigan Butterfly Network
+T5352	Callophrys henrici	T3765	species	Michigan Butterfly Network
+T5353	Callophrys irus	T3767	species	Michigan Butterfly Network
+T5354	Callophrys niphon	T3772	species	Michigan Butterfly Network
+T5355	Callophrys polios	T3773	species	Michigan Butterfly Network
+T5356	Carterocephalus palaemon	T4122	species	Michigan Butterfly Network
+T5357	Celastrina ladon/neglecta	T3783	species	Michigan Butterfly Network
+T5472	Celastrina ladon/neglecta	T3784	species	Michigan Butterfly Network
+T5358	Cercyonis pegala	T3567	species	Michigan Butterfly Network
+T5359	Chlosyne gorgone	T3576	species	Michigan Butterfly Network
+T5360	Chlosyne harrisii	T3577	species	Michigan Butterfly Network
+T5361	Chlosyne nycteis	T3584	species	Michigan Butterfly Network
+T5362	Coenonympha tullia	T3592	species	Michigan Butterfly Network
+T5363	Colias cesonia	T3960	species	Michigan Butterfly Network
+T5364	Colias eurytheme	T3962	species	Michigan Butterfly Network
+T5365	Colias interior	T3965	species	Michigan Butterfly Network
+T5366	Colias philodice	T3973	species	Michigan Butterfly Network
+T5367	Danaus plexippus	T3598	species	Michigan Butterfly Network
+T5368	Enodia anthedon	T3607	species	Michigan Butterfly Network
+T5369	Epargyreus clarus	T4145	species	Michigan Butterfly Network
+T5370	Erora laeta	T3796	species	Michigan Butterfly Network
+T5371	Erynnis baptisiae	T4150	species	Michigan Butterfly Network
+T5372	Erynnis brizo	T4151	species	Michigan Butterfly Network
+T5373	Erynnis horatius	T4153	species	Michigan Butterfly Network
+T5374	Erynnis icelus	T4154	species	Michigan Butterfly Network
+T5375	Erynnis juvenalis	T4155	species	Michigan Butterfly Network
+T5376	Erynnis lucilius	T4156	species	Michigan Butterfly Network
+T5377	Erynnis martialis	T4157	species	Michigan Butterfly Network
+T5378	Euchloe olympia	T3982	species	Michigan Butterfly Network
+T5379	Euphydryas phaeton	T3632	species	Michigan Butterfly Network
+T5380	Euphyes bimacula	T4169	species	Michigan Butterfly Network
+T5381	Euphyes conspicua	T4170	species	Michigan Butterfly Network
+T5382	Euphyes dion	T4171	species	Michigan Butterfly Network
+T5383	Euphyes dukesi	T4172	species	Michigan Butterfly Network
+T5384	Euphyes vestris	T4174	species	Michigan Butterfly Network
+T5385	Euptoieta claudia	T3633	species	Michigan Butterfly Network
+T5386	Eurema lisa	T3987	species	Michigan Butterfly Network
+T5387	Eurytides marcellus	T4018	species	Michigan Butterfly Network
+T5388	Everes comyntas	T3814	species	Michigan Butterfly Network
+T5389	Feniseca tarquinius	T3815	species	Michigan Butterfly Network
+T5390	Glaucopsyche lygdamus	T3816	species	Michigan Butterfly Network
+T5391	Hemiargus isola	T3822	species	Michigan Butterfly Network
+T5392	Hesperia comma	T4185	species	Michigan Butterfly Network
+T5393	Hesperia leonardus	T4190	species	Michigan Butterfly Network
+T5394	Hesperia metea	T4193	species	Michigan Butterfly Network
+T5395	Hesperia ottoe	T4196	species	Michigan Butterfly Network
+T5396	Hesperia sassacus	T4198	species	Michigan Butterfly Network
+T5397	Hylephila phyleus	T4205	species	Michigan Butterfly Network
+T5398	Junonia coenia	T3650	species	Michigan Butterfly Network
+T5399	Libytheana carinenta	T3653	species	Michigan Butterfly Network
+T5400	Limenitis archippus	T3654	species	Michigan Butterfly Network
+T5401	Lycaena dione	T3835	species	Michigan Butterfly Network
+T5402	Lycaena dorcas	T3836	species	Michigan Butterfly Network
+T5403	Lycaena epixanthe	T3839	species	Michigan Butterfly Network
+T5404	Lycaena helloides	T3841	species	Michigan Butterfly Network
+T5405	Lycaena hyllus	T3844	species	Michigan Butterfly Network
+T5406	Lycaena phlaeas	T3847	species	Michigan Butterfly Network
+T5407	Megisto cymela	T3663	species	Michigan Butterfly Network
+T5408	Nathalis iole	T3997	species	Michigan Butterfly Network
+T5409	Neonympha mitchellii	T3673	species	Michigan Butterfly Network
+T5410	Nymphalis antiopa	T3674	species	Michigan Butterfly Network
+T5411	Nymphalis milberti	T3677	species	Michigan Butterfly Network
+T5412	Nymphalis vaualbum	T3676	species	Michigan Butterfly Network
+T5413	Oeneis chryxus	T3685	species	Michigan Butterfly Network
+T5414	Oeneis jutta	T3681	species	Michigan Butterfly Network
+T5415	Papilio canadensis	T4026	species	Michigan Butterfly Network
+T5416	Papilio cresphontes	T4027	species	Michigan Butterfly Network
+T5417	Papilio glaucus	T4029	species	Michigan Butterfly Network
+T5418	Papilio polyxenes	T4039	species	Michigan Butterfly Network
+T5419	Papilio troilus	T4042	species	Michigan Butterfly Network
+T5420	Parrhasius m-album	T3857	species	Michigan Butterfly Network
+T5421	Phoebis sennae	T4004	species	Michigan Butterfly Network
+T5422	Pholisora catullus	T4242	species	Michigan Butterfly Network
+T5423	Phyciodes batesii	T3691	species	Michigan Butterfly Network
+T5424	Phyciodes selenis/cocyta	T3698	species	Michigan Butterfly Network
+T5425	Phyciodes tharos	T3699	species	Michigan Butterfly Network
+T5426	Pieris napi	T4008	species	Michigan Butterfly Network
+T5427	Pieris rapae	T4010	species	Michigan Butterfly Network
+T5428	Pieris virginiensis	T4011	species	Michigan Butterfly Network
+T5429	Plebejus saepiolus	T3870	species	Michigan Butterfly Network
+T5430	Poanes hobomok	T4250	species	Michigan Butterfly Network
+T5431	Poanes massasoit	T4251	species	Michigan Butterfly Network
+T5432	Poanes viator	T4254	species	Michigan Butterfly Network
+T5433	Poanes zabulon	T4256	species	Michigan Butterfly Network
+T5434	Polites mystic	T4261	species	Michigan Butterfly Network
+T5435	Polites origenes	T4262	species	Michigan Butterfly Network
+T5436	Polites peckius	T4263	species	Michigan Butterfly Network
+T5437	Polites themistocles	T4267	species	Michigan Butterfly Network
+T5438	Polygonia comma	T3708	species	Michigan Butterfly Network
+T5439	Polygonia interrogationis	T3711	species	Michigan Butterfly Network
+T5440	Polygonia progne	T3713	species	Michigan Butterfly Network
+T5441	Pompeius verna	T4273	species	Michigan Butterfly Network
+T5442	Pontia protodice	T4014	species	Michigan Butterfly Network
+T5443	Pyrgus centaureae	T4279	species	Michigan Butterfly Network
+T5444	Pyrgus communis	T4280	species	Michigan Butterfly Network
+T5445	Satyrium acadica	T3874	species	Michigan Butterfly Network
+T5446	Satyrium calanus	T3877	species	Michigan Butterfly Network
+T5447	Satyrium caryaevorum	T3879	species	Michigan Butterfly Network
+T5448	Satyrium edwardsii	T3880	species	Michigan Butterfly Network
+T5449	Satyrium liparops	T3885	species	Michigan Butterfly Network
+T5450	Satyrium titus	T3890	species	Michigan Butterfly Network
+T5451	Satyrodes appalachia	T3715	species	Michigan Butterfly Network
+T5452	Satyrodes eurydice	T3716	species	Michigan Butterfly Network
+T5453	Speyeria aphrodite	T3721	species	Michigan Butterfly Network
+T5454	Speyeria atlantis	T3722	species	Michigan Butterfly Network
+T5475	Speyeria atlantis	T3723	species	Michigan Butterfly Network
+T5455	Speyeria cybele	T3726	species	Michigan Butterfly Network
+T5456	Speyeria idalia	T3731	species	Michigan Butterfly Network
+T5457	Strymon melinus	T3902	species	Michigan Butterfly Network
+T5458	Thorybes bathyllus	T4303	species	Michigan Butterfly Network
+T5459	Thorybes pylades	T4308	species	Michigan Butterfly Network
+T5460	Thymelicus lineola	T1816	species	Michigan Butterfly Network
+T5461	Vanessa atalanta	T3738	species	Michigan Butterfly Network
+T5462	Vanessa cardui	T3739	species	Michigan Butterfly Network
+T5463	Vanessa virginiensis	T3741	species	Michigan Butterfly Network
+T5464	Wallengrenia egeremet	T4323	species	Michigan Butterfly Network
