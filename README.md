@@ -19,7 +19,8 @@ Project Lists
 6. Michigan Butterfly Network - COMPLETE
 7. MPG Ranch Butterfly Monitoring Program - COMPLETE
 8. Ohio Butterfly Monitoring Network
-9. Orange County Butterfly Monitoring Network
+9. Orange County Butterfly Monitoring Network - COMPLETE
 10. Tennessee Butterfly Monitoring Network - COMPLETE
 
+*Note: Orange County Butterfly Monitoring Network was also known as Irvine Ranch
 

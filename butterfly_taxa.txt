@@ -4953,3 +4953,87 @@ T5971	Cyllopsis gemma	T3593	species	Tennessee Butterfly Monitoring Network
 T5972	Megisto cymela	T3663	species	Tennessee Butterfly Monitoring Network
 T5973	Hermeuptychia sosybius	T3645	species	Tennessee Butterfly Monitoring Network
 T5974	Cercyonis pegala	T3567	species	Tennessee Butterfly Monitoring Network
+T5982	Abaeis nicippe	T4739	species	Orange County Butterfly Monitoring Network
+T5983	Adelpha bredowii	T4329	species	Orange County Butterfly Monitoring Network
+T6061	Adelpha bredowii	T4331	species	Orange County Butterfly Monitoring Network
+T6062	Adelpha bredowii	T4332	species	Orange County Butterfly Monitoring Network
+T5984	Agraulis vanillae	T4335	species	Orange County Butterfly Monitoring Network
+T5985	Anthocharis sara	T4745	species	Orange County Butterfly Monitoring Network
+T6063	Anthocharis sara	T4746	species	Orange County Butterfly Monitoring Network
+T5986	Apodemia virgulti	T4713	species	Orange County Butterfly Monitoring Network
+T5987	Atalopedes campestris	T4905	species	Orange County Butterfly Monitoring Network
+T5988	Atlides halesus	T4544	species	Orange County Butterfly Monitoring Network
+T5989	Battus philenor	T4816	species	Orange County Butterfly Monitoring Network
+T5990	Brephidium exilis	T4545	species	Orange County Butterfly Monitoring Network
+T6064	Brephidium exilis	T4546	species	Orange County Butterfly Monitoring Network
+T5991	Calephelis nemesis	T4724	species	Orange County Butterfly Monitoring Network
+T5992	Calephelis wrighti	T4730	species	Orange County Butterfly Monitoring Network
+T5993	Callophrys augustinus	T4548	species	Orange County Butterfly Monitoring Network
+T5994	Callophrys perplexa	T4552	species	Orange County Butterfly Monitoring Network
+T5995	Celastrina ladon echo	T4578	subspecies	Orange County Butterfly Monitoring Network
+T5996	Cercyonis sthenele silvestris	T4373	subspecies	Orange County Butterfly Monitoring Network
+T5997	Chlosyne gabbii	T4380	species	Orange County Butterfly Monitoring Network
+T5998	Chlosyne leanira†	T4386	species	Orange County Butterfly Monitoring Network
+T5999	Coenonympha tullia california	T4397	subspecies	Orange County Butterfly Monitoring Network
+T6000	Colias alexandra harfordii	T4755	subspecies	Orange County Butterfly Monitoring Network
+T6001	Colias eurytheme	T4762	species	Orange County Butterfly Monitoring Network
+T6002	Cupido amyntula	T4589	species	Orange County Butterfly Monitoring Network
+T6003	Danaus gilippus	T4402	species	Orange County Butterfly Monitoring Network
+T6004	Danaus plexippus	T4403	species	Orange County Butterfly Monitoring Network
+T6005	Erynnis funeralis	T4956	species	Orange County Butterfly Monitoring Network
+T6006	Erynnis tristis	T4968	species	Orange County Butterfly Monitoring Network
+T6007	Euphilotes battoides	T4606	species	Orange County Butterfly Monitoring Network
+T6008	Euphydryas chalcedona	T4432	species	Orange County Butterfly Monitoring Network
+T6009	Euphydryas editha	T4435	species	Orange County Butterfly Monitoring Network
+T6010	Euphys vestris harbisoni	T4978	subspecies	Orange County Butterfly Monitoring Network
+T6011	Glaucopsyche lygdamus	T4618	species	Orange County Butterfly Monitoring Network
+T6065	Glaucopsyche lygdamus	T4619	species	Orange County Butterfly Monitoring Network
+T6012	Habrodais grunus	T4621	species	Orange County Butterfly Monitoring Network
+T6013	Heliopetes ericetorum	T4983	species	Orange County Butterfly Monitoring Network
+T6014	Hemiargus ceraunus	T4622	species	Orange County Butterfly Monitoring Network
+T6015	Hemiargus isola alce	T4596	subspecies	Orange County Butterfly Monitoring Network
+T6016	Hesperia colorado	T4990	species	Orange County Butterfly Monitoring Network
+T6017	Hesperia juba	T4993	species	Orange County Butterfly Monitoring Network
+T6018	Hylephila phyleus	T5009	species	Orange County Butterfly Monitoring Network
+T6019	Junonia coenia	T4455	species	Orange County Butterfly Monitoring Network
+T6020	Leptotes marina	T4627	species	Orange County Butterfly Monitoring Network
+T6021	Lerodea eufala	T5014	species	Orange County Butterfly Monitoring Network
+T6022	Limenitis lorquini	T4462	species	Orange County Butterfly Monitoring Network
+T6023	Lycaena arota	T4628	species	Orange County Butterfly Monitoring Network
+T6024	Lycaena gorgon	T4635	species	Orange County Butterfly Monitoring Network
+T6025	Lycaena helloides	T4636	species	Orange County Butterfly Monitoring Network
+T6026	Lycaena xanthoides	T4645	species	Orange County Butterfly Monitoring Network
+T6027	Nathalis iole	T4792	species	Orange County Butterfly Monitoring Network
+T6028	Nymphalis antiopa	T4491	species	Orange County Butterfly Monitoring Network
+T6029	Nymphalis californica	T4492	species	Orange County Butterfly Monitoring Network
+T6030	Ochlodes agricola	T5029	species	Orange County Butterfly Monitoring Network
+T6031	Ochlodes sylvanoides	T5030	species	Orange County Butterfly Monitoring Network
+T6032	Panoquina panoquinoides	T5038	species	Orange County Butterfly Monitoring Network
+T6033	Papilio cresphontes	T4827	species	Orange County Butterfly Monitoring Network
+T6034	Papilio eurymedon	T4828	species	Orange County Butterfly Monitoring Network
+T6035	Papilio rutulus	T4840	species	Orange County Butterfly Monitoring Network
+T6036	Papilio zelicaon	T4845	species	Orange County Butterfly Monitoring Network
+T6037	Philotes sonorensis	T4654	species	Orange County Butterfly Monitoring Network
+T6038	Phoebis sennae	T4799	species	Orange County Butterfly Monitoring Network
+T6039	Phyciodes mylitta	T4497	species	Orange County Butterfly Monitoring Network
+T6040	Pieris rapae	T4803	species	Orange County Butterfly Monitoring Network
+T6041	Plebejus acmon	T4666	species	Orange County Butterfly Monitoring Network
+T6042	Plebejus icarioides	T4669	species	Orange County Butterfly Monitoring Network
+T6043	Poanes melane	T5057	species	Orange County Butterfly Monitoring Network
+T6044	Polites sabuleti	T5070	species	Orange County Butterfly Monitoring Network
+T6045	Polygonia satyrus	T4513	species	Orange County Butterfly Monitoring Network
+T6046	Polygonus leo	T5074	species	Orange County Butterfly Monitoring Network
+T6047	Pontia protodice	T4807	species	Orange County Butterfly Monitoring Network
+T6048	Pyrgus albescens	T5083	species	Orange County Butterfly Monitoring Network
+T6049	Satyrium auretorum	T4677	species	Orange County Butterfly Monitoring Network
+T6050	Satyrium californica	T4680	species	Orange County Butterfly Monitoring Network
+T6051	Satyrium saepium	T4689	species	Orange County Butterfly Monitoring Network
+T6052	Satyrium sylvinus	T4690	species	Orange County Butterfly Monitoring Network
+T6053	Satyrium tetra	T4691	species	Orange County Butterfly Monitoring Network
+T6054	Speyeria callippe comstocki	T4523	subspecies	Orange County Butterfly Monitoring Network
+T6055	Strymon melinus	T4704	species	Orange County Butterfly Monitoring Network
+T6056	Vanessa annabella	T4537	species	Orange County Butterfly Monitoring Network
+T6057	Vanessa atalanta	T4538	species	Orange County Butterfly Monitoring Network
+T6058	Vanessa cardui	T4539	species	Orange County Butterfly Monitoring Network
+T6059	Vanessa virginiensis	T4541	species	Orange County Butterfly Monitoring Network
+T6060	Zerene eurydice	T4815	species	Orange County Butterfly Monitoring Network
