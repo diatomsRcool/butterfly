@@ -20,6 +20,6 @@ Project Lists
 7. MPG Ranch Butterfly Monitoring Program - COMPLETE
 8. Ohio Butterfly Monitoring Network
 9. Orange County Butterfly Monitoring Network
-10. Tennessee Butterfly Monitoring Network
+10. Tennessee Butterfly Monitoring Network - COMPLETE
 
 
