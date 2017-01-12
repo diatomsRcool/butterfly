@@ -18,7 +18,7 @@ Project Lists
 5. Iowa Butterfly Survey Network
 6. Michigan Butterfly Network - COMPLETE
 7. MPG Ranch Butterfly Monitoring Program - COMPLETE
-8. Ohio Butterfly Monitoring Network
+8. Ohio Butterfly Monitoring Network - COMPLETE
 9. Orange County Butterfly Monitoring Network - COMPLETE
 10. Tennessee Butterfly Monitoring Network - COMPLETE
 
