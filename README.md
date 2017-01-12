@@ -1,26 +1,26 @@
 # butterfly
 butterfly names alignment
 
-THIS ALIGNMENT IS INCOMPLETE. IT IS A WORK IN PROGRESS. USE WITH CAUTION.
+THIS ALIGNMENT IS COMPLETE, BUT NOT TESTED. USE WITH CAUTION.
 
 This is an alignment of Lepidopteran names in four classifications and ten list of names used by monitoring projects.
 Classifications
-1. ITIS - COMPLETE
-2. NABA - COMPLETE
-3. Pelham - COMPLETE
-4. Opler & Warren - COMPLETE
+1. ITIS
+2. NABA
+3. Pelham
+4. Opler & Warren
 
 Project Lists
-1. Illinois Butterfly Monitoring Network - COMPLETE
-2. Cascades Butterfly Project - COMPLETE
-3. Colorado Butterfly Monitoring Network - COMPLETE
+1. Illinois Butterfly Monitoring Network
+2. Cascades Butterfly Project
+3. Colorado Butterfly Monitoring Network
 4. Florida Butterfly Monitoring Network
-5. Iowa Butterfly Survey Network - COMPLETE
-6. Michigan Butterfly Network - COMPLETE
-7. MPG Ranch Butterfly Monitoring Program - COMPLETE
-8. Ohio Butterfly Monitoring Network - COMPLETE
-9. Orange County Butterfly Monitoring Network - COMPLETE
-10. Tennessee Butterfly Monitoring Network - COMPLETE
+5. Iowa Butterfly Survey Network
+6. Michigan Butterfly Network
+7. MPG Ranch Butterfly Monitoring Program
+8. Ohio Butterfly Monitoring Network
+9. Orange County Butterfly Monitoring Network
+10. Tennessee Butterfly Monitoring Network
 
 *Note: Orange County Butterfly Monitoring Network was also known as Irvine Ranch
 
