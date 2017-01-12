@@ -12,7 +12,7 @@ Classifications
 
 Project Lists
 1. Illinois Butterfly Monitoring Network - COMPLETE
-2. Cascades Butterfly Project
+2. Cascades Butterfly Project - COMPLETE
 3. Colorado Butterfly Monitoring Network - COMPLETE
 4. Florida Butterfly Monitoring Network
 5. Iowa Butterfly Survey Network
