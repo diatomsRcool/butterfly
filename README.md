@@ -15,7 +15,7 @@ Project Lists
 2. Cascades Butterfly Project - COMPLETE
 3. Colorado Butterfly Monitoring Network - COMPLETE
 4. Florida Butterfly Monitoring Network
-5. Iowa Butterfly Survey Network
+5. Iowa Butterfly Survey Network - COMPLETE
 6. Michigan Butterfly Network - COMPLETE
 7. MPG Ranch Butterfly Monitoring Program - COMPLETE
 8. Ohio Butterfly Monitoring Network - COMPLETE
