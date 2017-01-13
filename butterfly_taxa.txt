@@ -5271,7 +5271,7 @@ T6290	Euchloe lotta	T3158	species	Cascades Butterfly Project
 T6291	Euphilotes ancilla columbiae	T2968	subspecies	Cascades Butterfly Project
 T6292	Euphilotes battoides glaucon	T2964	subspecies	Cascades Butterfly Project
 T6293	Euphilotes enoptes	T2965	species	Cascades Butterfly Project
-T6294	Euphilotes on-heracleoides		species	Cascades Butterfly Project
+T6294	Euphilotes on-heracleoides	T2958	species	Cascades Butterfly Project
 T6295	Euphydryas anicia	T2769	species	Cascades Butterfly Project
 T6296	Euphydryas colon	T2768	species	Cascades Butterfly Project
 T6297	Euphydryas editha	T2770	species	Cascades Butterfly Project
@@ -5347,8 +5347,7 @@ T6366	Pyrgus communis	T3481	species	Cascades Butterfly Project
 T6367	Pyrgus ruralis	T3484	species	Cascades Butterfly Project
 T6368	Satyrium behrii	T3034	species	Cascades Butterfly Project
 T6369	Satyrium californica	T3036	species	Cascades Butterfly Project
-T6370	Satyrium fulginosum semiluna	T3040	subspecies	Cascades Butterfly Project
-T6395	Satyrium fulginosum semiluna	T3041	subspecies	Cascades Butterfly Project
+T6370	Satyrium fulginosum semiluna	T3041	subspecies	Cascades Butterfly Project
 T6371	Satyrium saepium	T3046	species	Cascades Butterfly Project
 T6372	Satyrium sylvinus	T3047	species	Cascades Butterfly Project
 T6373	Satyrium titus	T3049	species	Cascades Butterfly Project
