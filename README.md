@@ -24,7 +24,7 @@ Project Lists
 
 *Note: Orange County Butterfly Monitoring Network was also known as Irvine Ranch
 
-alignment_test.ipynb is a jupyter notebook to use to test the alignment
+alignment_test.ipynb is a jupyter notebook to use to test the alignment. Go to the mybinder link below to use it.
 
 http://mybinder.org/repo/diatomsrcool/butterfly
 
