@@ -1,7 +1,7 @@
 # butterfly
 butterfly names alignment
 
-THIS ALIGNMENT IS COMPLETE, BUT NOT TESTED. USE WITH CAUTION.
+THIS ALIGNMENT IS COMPLETE, BUT NOT TESTED. TESTING IN PROGRESS. USE WITH CAUTION.
 
 This is an alignment of Lepidopteran names in four classifications and ten list of names used by monitoring projects.
 Classifications
@@ -23,4 +23,8 @@ Project Lists
 10. Tennessee Butterfly Monitoring Network
 
 *Note: Orange County Butterfly Monitoring Network was also known as Irvine Ranch
+
+alignment_test.ipynb is a jupyter notebook to use to test the alignment
+
+
 
