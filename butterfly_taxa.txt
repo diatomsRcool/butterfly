@@ -4250,7 +4250,7 @@ T5224	Hemiargus isola	T3822	species	Illinois Butterfly Monitoring Network
 T5225	Erynnis juvenalis	T4155	species	Illinois Butterfly Monitoring Network
 T5226	Celastrina ladon/neglecta	T3779	species	Illinois Butterfly Monitoring Network
 T5329	Celastrina ladon/neglecta	T3783	species	Illinois Butterfly Monitoring Network
-T5227	Hesperia leonardus	T4190	species	Illinois Butterfly Monitoring Network
+T6712	Celastrina ladon/neglecta	T3780	species	Illinois Butterfly Monitoring Network
 T5228	Nastra lherminier	T4217	species	Illinois Butterfly Monitoring Network
 T5229	Amblyscirtes linda	T4083	species	Illinois Butterfly Monitoring Network
 T5230	Thymelicus lineola	T1816	species	Illinois Butterfly Monitoring Network
@@ -4447,7 +4447,6 @@ T5451	Satyrodes appalachia	T3715	species	Michigan Butterfly Network
 T5452	Satyrodes eurydice	T3716	species	Michigan Butterfly Network
 T5453	Speyeria aphrodite	T3721	species	Michigan Butterfly Network
 T5454	Speyeria atlantis	T3722	species	Michigan Butterfly Network
-T5475	Speyeria atlantis	T3723	species	Michigan Butterfly Network
 T5455	Speyeria cybele	T3726	species	Michigan Butterfly Network
 T5456	Speyeria idalia	T3731	species	Michigan Butterfly Network
 T5457	Strymon melinus	T3902	species	Michigan Butterfly Network
@@ -4477,7 +4476,6 @@ T5484	Pontia sisymbrii	T3190	species	MPG Ranch Butterfly Monitoring Network
 T5486	Colias philodice	T3150	species	MPG Ranch Butterfly Monitoring Network
 T5487	Colias eurytheme	T3139	species	MPG Ranch Butterfly Monitoring Network
 T5488	Colias alexandra	T3130	species	MPG Ranch Butterfly Monitoring Network
-T5584	Colias alexandra	T3132	species	MPG Ranch Butterfly Monitoring Network
 T5489	Colias interior	T3142	species	MPG Ranch Butterfly Monitoring Network
 T5491	Lycaena editha	T2998	species	MPG Ranch Butterfly Monitoring Network
 T5492	Lycaena heteronea	T3003	species	MPG Ranch Butterfly Monitoring Network
@@ -4498,7 +4496,7 @@ T5507	Celastrina echo	T2931	species	MPG Ranch Butterfly Monitoring Network
 T5508	Glaucopsyche piasus	T2976	species	MPG Ranch Butterfly Monitoring Network
 T5509	Glaucopsyche lygdamus	T2974	species	MPG Ranch Butterfly Monitoring Network
 T5580	Glaucopsyche lygdamus	T2975	species	MPG Ranch Butterfly Monitoring Network
-T5510	Euphilotes glaucon	T2964	species	MPG Ranch Butterfly Monitoring Network
+T5510	Euphilotes glaucon	T2958	species	MPG Ranch Butterfly Monitoring Network
 T5511	Euphilotes ancilla	T2967	species	MPG Ranch Butterfly Monitoring Network
 T5512	Plebejus saepiolus	T2987	species	MPG Ranch Butterfly Monitoring Network
 T5513	Plebejus icarioides	T2984	species	MPG Ranch Butterfly Monitoring Network
@@ -4510,7 +4508,6 @@ T5519	Danaus plexippus	T2738	species	MPG Ranch Butterfly Monitoring Network
 T5520	Euptoieta claudia	T2773	species	MPG Ranch Butterfly Monitoring Network
 T5521	Boloria selene	T2703	species	MPG Ranch Butterfly Monitoring Network
 T5522	Boloria chariclea	T2693	species	MPG Ranch Butterfly Monitoring Network
-T5583	Boloria chariclea	T2694	species	MPG Ranch Butterfly Monitoring Network
 T5523	Speyeria cybele leto	T2870	species	MPG Ranch Butterfly Monitoring Network
 T5524	Speyeria edwardsii	T2872	species	MPG Ranch Butterfly Monitoring Network
 T5525	Speyeria coronis	T2869	species	MPG Ranch Butterfly Monitoring Network
@@ -4565,7 +4562,6 @@ T5831	Limenitis arthemis astyanax	T5306	species	Colorado Butterfly Monitoring Ne
 T5832	Limenitis arthemis astyanax	T5307	species	Colorado Butterfly Monitoring Network
 T5833	Limenitis arthemis astyanax	T5308	species	Colorado Butterfly Monitoring Network
 T5587	Plebejus lupini lupini	T4664	species	Colorado Butterfly Monitoring Network
-T5834	Plebejus lupini lupini	T4665	species	Colorado Butterfly Monitoring Network
 T5588	Plebejus lupini texanus	T4664	species	Colorado Butterfly Monitoring Network
 T5589	Epargyreus clarus	T4948	species	Colorado Butterfly Monitoring Network
 T5590	Zestusa dorus	T5132	species	Colorado Butterfly Monitoring Network
@@ -4645,9 +4641,7 @@ T5662	Papilio eurymedon	T4828	species	Colorado Butterfly Monitoring Network
 T5663	Papilio multicaudata	T4833	species	Colorado Butterfly Monitoring Network
 T5664	Papilio cresphontes	T4827	species	Colorado Butterfly Monitoring Network
 T5665	Anthocharis julia	T4747	species	Colorado Butterfly Monitoring Network
-T5836	Anthocharis julia	T4746	species	Colorado Butterfly Monitoring Network
 T5666	Anthocharis thoosa	T4748	species	Colorado Butterfly Monitoring Network
-T5837	Anthocharis thoosa	T4746	species	Colorado Butterfly Monitoring Network
 T5667	Euchloe ausonides	T4776	species	Colorado Butterfly Monitoring Network
 T5668	Euchloe olympia	T4782	species	Colorado Butterfly Monitoring Network
 T5669	Euchloe lotta	T4780	species	Colorado Butterfly Monitoring Network
@@ -4744,6 +4738,8 @@ T5758	Speyeria callippe	T4523	species	Colorado Butterfly Monitoring Network
 T5759	Speyeria egleis	T4528	species	Colorado Butterfly Monitoring Network
 T5760	Speyeria atlantis	T4521	species	Colorado Butterfly Monitoring Network
 T5761	Speyeria hesperis	T4522	species	Colorado Butterfly Monitoring Network
+T6713	Speyeria atlantis	T4522	species	Colorado Butterfly Monitoring Network
+T6714	Speyeria hesperis	T4521	species	Colorado Butterfly Monitoring Network
 T5762	Speyeria hydaspe	T4529	species	Colorado Butterfly Monitoring Network
 T5763	Speyeria mormonia	T4531	species	Colorado Butterfly Monitoring Network
 T5764	Boloria eunomia	T4362	species	Colorado Butterfly Monitoring Network
@@ -4970,6 +4966,7 @@ T5991	Calephelis nemesis	T4724	species	Orange County Butterfly Monitoring Networ
 T5992	Calephelis wrighti	T4730	species	Orange County Butterfly Monitoring Network
 T5993	Callophrys augustinus	T4548	species	Orange County Butterfly Monitoring Network
 T5994	Callophrys perplexa	T4552	species	Orange County Butterfly Monitoring Network
+T6715	Callophrys perplexa	T4551	species	Orange County Butterfly Monitoring Network
 T5995	Celastrina ladon echo	T4578	subspecies	Orange County Butterfly Monitoring Network
 T5996	Cercyonis sthenele silvestris	T4373	subspecies	Orange County Butterfly Monitoring Network
 T5997	Chlosyne gabbii	T4380	species	Orange County Butterfly Monitoring Network
@@ -5194,7 +5191,6 @@ T6212	Satyrodes appalachia	T3715	species	Ohio Butterfly Monitoring Network
 T6213	Satyrodes eurydice	T3716	species	Ohio Butterfly Monitoring Network
 T6214	Speyeria aphrodite	T3721	species	Ohio Butterfly Monitoring Network
 T6215	Speyeria atlantis	T3722	species	Ohio Butterfly Monitoring Network
-T6238	Speyeria atlantis	T3723	species	Ohio Butterfly Monitoring Network
 T6216	Speyeria cybele	T3726	species	Ohio Butterfly Monitoring Network
 T6217	Speyeria diana	T3727	species	Ohio Butterfly Monitoring Network
 T6218	Speyeria idalia	T3731	species	Ohio Butterfly Monitoring Network
@@ -5251,7 +5247,7 @@ T6270	Chlosyne hoffmanni	T2718	species	Cascades Butterfly Project
 T6271	Chlosyne palla	T2725	species	Cascades Butterfly Project
 T6272	Coenonympha tullia	T2732	species	Cascades Butterfly Project
 T6273	Colias alexandra	T3130	species	Cascades Butterfly Project
-T6274	Colias eurytheme	T3139	species	Cascades Butterfly Project
+T6716	Colias alexandra	T3132	species	Cascades Butterfly Project
 T6275	Colias interior	T3142	species	Cascades Butterfly Project
 T6276	Colias nastes	T3145	species	Cascades Butterfly Project
 T6277	Colias occidentalis	T3146	species	Cascades Butterfly Project
@@ -5436,7 +5432,7 @@ T6516	Limenitis arthemis arthemis	T5309	subspecies	Iowa Butterfly Survey Network
 T6517	Limenitis arthemis astyanax	T5310	subspecies	Iowa Butterfly Survey Network
 T6518	Limenitis arthemis arthemis	T5311	subspecies	Iowa Butterfly Survey Network
 T6519	Limenitis arthemis astyanax	T5312	subspecies	Iowa Butterfly Survey Network
-T6461	Lycaeides melissa	T3830	species	Iowa Butterfly Survey Network
+T6461	Lycaeides melissa	T3831	species	Iowa Butterfly Survey Network
 T6462	Lycaena dione	T3835	species	Iowa Butterfly Survey Network
 T6463	Lycaena helloides	T3841	species	Iowa Butterfly Survey Network
 T6464	Lycaena hyllus	T3844	species	Iowa Butterfly Survey Network
