@@ -4492,7 +4492,7 @@ T5502	Callophrys mossii	T2922	species	MPG Ranch Butterfly Monitoring Network
 T5503	Callophrys polios	T2924	species	MPG Ranch Butterfly Monitoring Network
 T5504	Callophrys eryphon	T2906	species	MPG Ranch Butterfly Monitoring Network
 T5506	Strymon melinus	T3061	species	MPG Ranch Butterfly Monitoring Network
-T5507	Celastrina echo	T2931	species	MPG Ranch Butterfly Monitoring Network
+T5507	Celastrina echo	T2930	species	MPG Ranch Butterfly Monitoring Network
 T5508	Glaucopsyche piasus	T2976	species	MPG Ranch Butterfly Monitoring Network
 T5509	Glaucopsyche lygdamus	T2974	species	MPG Ranch Butterfly Monitoring Network
 T5580	Glaucopsyche lygdamus	T2975	species	MPG Ranch Butterfly Monitoring Network
