@@ -4907,10 +4907,10 @@ T5932	Parrhasius m-album	T3857	species	Tennessee Butterfly Monitoring Network
 T5933	Erora laeta	T3796	species	Tennessee Butterfly Monitoring Network
 T5934	Leptotes marina	T3828	species	Tennessee Butterfly Monitoring Network
 T5935	Cupido comyntas	T3814	species	Tennessee Butterfly Monitoring Network
-T5936	Celastrina ladon	T3780	species	Tennessee Butterfly Monitoring Network
+T5936	Celastrina ladon/neglecta	T3780	species	Tennessee Butterfly Monitoring Network
 T5979	Celastrina ladon	T3910	species	Tennessee Butterfly Monitoring Network
 T5980	Celastrina ladon	T3911	species	Tennessee Butterfly Monitoring Network
-T5981	Celastrina ladon	T3783	species	Tennessee Butterfly Monitoring Network
+T5981	Celastrina ladon/neglecta	T3783	species	Tennessee Butterfly Monitoring Network
 T5937	Celastrina nigra	T3786	species	Tennessee Butterfly Monitoring Network
 T5938	Celastrina neglectamajor	T3785	species	Tennessee Butterfly Monitoring Network
 T5939	Glaucopsyche lygdamus	T3816	species	Tennessee Butterfly Monitoring Network
