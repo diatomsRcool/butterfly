@@ -193,6 +193,7 @@ T1189	Poladryas minuta	T1001	species
 T1190	Polygonia comma	T1001	species
 T1191	Polygonia faunus	T1001	species
 T1192	Polygonia gracilis	T1001	species
+T6721	Polygonia zephrys	T1001	species
 T1193	Polygonia interrogationis	T1001	species
 T1194	Polygonia oreas	T1001	species
 T1195	Polygonia progne	T1001	species
@@ -1890,6 +1891,7 @@ T2852	Poladryas minuta	T1189	species	Pelham, J.P., 2014. A catalogue of the butt
 T2853	Polygonia comma	T1190	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T2854	Polygonia faunus	T1191	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T2855	Polygonia gracilis	T1192	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
+T6723	Polygonia gracilis zephrys	T6721	subspecies	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T2856	Polygonia haroldii	T3076	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T2857	Polygonia interrogationis	T1193	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T2858	Polygonia oreas	T1194	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
@@ -3544,6 +3546,7 @@ T4506	Poladryas minuta	T1189	species	Opler, P.A. and A.D. Warren, 2005. Lepidopt
 T4507	Polygonia comma	T1190	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4508	Polygonia faunus	T1191	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4509	Polygonia gracilis	T1192	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
+T6722	Polygonia zephrys	T6721	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4510	Polygonia interrogationis	T1193	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4511	Polygonia oreas	T1194	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4512	Polygonia progne	T1195	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
@@ -3722,7 +3725,8 @@ T4680	Satyrium californica	T1366	species	Opler, P.A. and A.D. Warren, 2005. Lepi
 T4681	Satyrium caryaevorus	T1367	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4682	Satyrium edwardsii	T1368	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4683	Satyrium favonius	T1369	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
-T4684	Satyrium fuliginosa	T1370	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
+T4684	Satyrium fulginosa	T1370	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
+T6728	Satyrium fulginosa	T1371	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4685	Satyrium ilavia	T1372	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4686	Satyrium kingi	T1373	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4687	Satyrium liparops	T1374	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
@@ -4463,7 +4467,8 @@ T5467	Papilio zelicaon	T3232	species	MPG Ranch Butterfly Monitoring Network
 T5469	Papilio rutulus	T3227	species	MPG Ranch Butterfly Monitoring Network
 T5470	Papilio eurymedon	T3214	species	MPG Ranch Butterfly Monitoring Network
 T5471	Papilio multicaudatus	T3220	species	MPG Ranch Butterfly Monitoring Network
-T5473	Anthocharis sara 	T3122	species	MPG Ranch Butterfly Monitoring Network
+T5473	Anthocharis sara	T3122	species	MPG Ranch Butterfly Monitoring Network
+T6735	Anthocharis sara	T3124	species	MPG Ranch Butterfly Monitoring Network
 T5474	Euchloe ausonides	T3154	species	MPG Ranch Butterfly Monitoring Network
 T5475	Euchloe lotta	T3158	species	MPG Ranch Butterfly Monitoring Network
 T5477	Neophasia menapia	T3174	species	MPG Ranch Butterfly Monitoring Network
@@ -4527,7 +4532,7 @@ T5539	Nymphalis californica	T2826	species	MPG Ranch Butterfly Monitoring Network
 T5540	Nymphalis antiopa	T2825	species	MPG Ranch Butterfly Monitoring Network
 T5541	Polygonia satyrus	T2860	species	MPG Ranch Butterfly Monitoring Network
 T5542	Polygonia oreas	T2858	species	MPG Ranch Butterfly Monitoring Network
-T5543	Polygonia gracilis zephyrus	T2855	species	MPG Ranch Butterfly Monitoring Network
+T5543	Polygonia gracilis zephrys	T6723	subspecies	MPG Ranch Butterfly Monitoring Network
 T5544	Polygonia faunus	T2854	species	MPG Ranch Butterfly Monitoring Network
 T5546	Euphydryas editha	T2770	species	MPG Ranch Butterfly Monitoring Network
 T5547	Euphydryas colon	T2768	species	MPG Ranch Butterfly Monitoring Network
@@ -4556,6 +4561,9 @@ T5572	Hesperia colorado idaho	T3383	species	MPG Ranch Butterfly Monitoring Netwo
 T5574	Hesperia nevada	T3392	species	MPG Ranch Butterfly Monitoring Network
 T5575	Polites mystic	T3462	species	MPG Ranch Butterfly Monitoring Network
 T5576	Ocholdes sylvanoides	T3426	species	MPG Ranch Butterfly Monitoring Network
+T6730	Euphilotes "battoides"	T2958	species	MPG Ranch Butterfly Monitoring Network
+T6731	Euphilotes "battoides"	T2958	species	MPG Ranch Butterfly Monitoring Network
+T6732	Euphilotes "battoides"	T2967	species	MPG Ranch Butterfly Monitoring Network
 T5586	Limenitis arthemis astyanax	T4461	species	Colorado Butterfly Monitoring Network
 T5830	Limenitis arthemis astyanax	T5305	species	Colorado Butterfly Monitoring Network
 T5831	Limenitis arthemis astyanax	T5306	species	Colorado Butterfly Monitoring Network
@@ -4655,6 +4663,7 @@ T5676	Pontia sisymbrii	T4808	species	Colorado Butterfly Monitoring Network
 T5677	Colias philodice	T4773	species	Colorado Butterfly Monitoring Network
 T5678	Colias eurytheme	T4762	species	Colorado Butterfly Monitoring Network
 T5679	Colias alexandra	T4754	species	Colorado Butterfly Monitoring Network
+T6729	Colias alexandra	T4755	species	Colorado Butterfly Monitoring Network
 T5680	Colias meadii	T4767	species	Colorado Butterfly Monitoring Network
 T5681	Colias scudderi	T4774	species	Colorado Butterfly Monitoring Network
 T5682	Zerene cesonia	T4814	species	Colorado Butterfly Monitoring Network
@@ -4694,7 +4703,7 @@ T5714	Satyrium calanus	T4679	species	Colorado Butterfly Monitoring Network
 T5715	Satyrium liparops	T4687	species	Colorado Butterfly Monitoring Network
 T5716	Satyrium saepium	T4689	species	Colorado Butterfly Monitoring Network
 T5717	Satyrium behrii	T4678	species	Colorado Butterfly Monitoring Network
-T5718	Satyrium semiluna	T1371	species	Colorado Butterfly Monitoring Network
+T5718	Satyrium semiluna	T6728	species	Colorado Butterfly Monitoring Network
 T5719	Strymon melinus	T4704	species	Colorado Butterfly Monitoring Network
 T5720	Leptotes marina	T4627	species	Colorado Butterfly Monitoring Network
 T5721	Brephidium exilis	T4545	species	Colorado Butterfly Monitoring Network
@@ -4776,7 +4785,8 @@ T5794	Polygonia interrogationis	T4510	species	Colorado Butterfly Monitoring Netw
 T5795	Polygonia satyrus	T4513	species	Colorado Butterfly Monitoring Network
 T5796	Polygonia faunus	T4508	species	Colorado Butterfly Monitoring Network
 T5797	Polygonia gracilis	T4509	species	Colorado Butterfly Monitoring Network
-T5798	Polygonia zephyrus	T4509	species	Colorado Butterfly Monitoring Network
+T6724	Polygonia zephrys	T4509	species	Colorado Butterfly Monitoring Network
+T5798	Polygonia zephrys	T6722	species	Colorado Butterfly Monitoring Network
 T5799	Polygonia progne	T4512	species	Colorado Butterfly Monitoring Network
 T5800	Aglais milberti	T4333	species	Colorado Butterfly Monitoring Network
 T5801	Nymphalis antiopa	T4491	species	Colorado Butterfly Monitoring Network
@@ -4828,8 +4838,8 @@ T5855	Erynnis martialis	T4157	species	Tennessee Butterfly Monitoring Network
 T5856	Erynnis zarucco	T4165	species	Tennessee Butterfly Monitoring Network
 T5857	Erynnis funeralis	T4152	species	Tennessee Butterfly Monitoring Network
 T5858	Erynnis baptisiae	T4150	species	Tennessee Butterfly Monitoring Network
-T5859	Pyrgus communis/albsecens	T4278	species	Tennessee Butterfly Monitoring Network
-T5977	Pyrgus communis/albsecens	T4280	species	Tennessee Butterfly Monitoring Network
+T5859	Pyrgus communis/albescens	T4278	species	Tennessee Butterfly Monitoring Network
+T5977	Pyrgus communis/albescens	T4280	species	Tennessee Butterfly Monitoring Network
 T5860	Pholisora catullus	T4242	species	Tennessee Butterfly Monitoring Network
 T5861	Nastra lherminier	T4217	species	Tennessee Butterfly Monitoring Network
 T5862	Lerema accius	T4206	species	Tennessee Butterfly Monitoring Network
@@ -4981,8 +4991,9 @@ T6005	Erynnis funeralis	T4956	species	Orange County Butterfly Monitoring Network
 T6006	Erynnis tristis	T4968	species	Orange County Butterfly Monitoring Network
 T6007	Euphilotes battoides	T4606	species	Orange County Butterfly Monitoring Network
 T6008	Euphydryas chalcedona	T4432	species	Orange County Butterfly Monitoring Network
+T6733	Euphydryas chalcedona	T4433	species	Orange County Butterfly Monitoring Network
 T6009	Euphydryas editha	T4435	species	Orange County Butterfly Monitoring Network
-T6010	Euphys vestris harbisoni	T4978	subspecies	Orange County Butterfly Monitoring Network
+T6010	Euphyes vestris harbisoni	T4978	subspecies	Orange County Butterfly Monitoring Network
 T6011	Glaucopsyche lygdamus	T4618	species	Orange County Butterfly Monitoring Network
 T6065	Glaucopsyche lygdamus	T4619	species	Orange County Butterfly Monitoring Network
 T6012	Habrodais grunus	T4621	species	Orange County Butterfly Monitoring Network
@@ -5207,11 +5218,13 @@ T6228	Vanessa virginiensis 	T3741	species	Ohio Butterfly Monitoring Network
 T6229	Wallengrenia egeremet 	T4323	species	Ohio Butterfly Monitoring Network
 T6230	Wallengrenia otho	T4324	species	Ohio Butterfly Monitoring Network
 T6239	Adelpha californica	T2668	species	Cascades Butterfly Project
+T6720	Colias eurytheme	T3139	species	Cascades Butterfly Project
 T6240	Aglais milberti	T2670	species	Cascades Butterfly Project
 T6241	Agriades glandon	T2889	species	Cascades Butterfly Project
 T6242	Amblyscirtes vialis	T3281	species	Cascades Butterfly Project
 T6243	Anthocharis sara	T3121	species	Cascades Butterfly Project
 T6390	Anthocharis sara	T3122	species	Cascades Butterfly Project
+T6734	Anthocharis sara	T3124	species	Cascades Butterfly Project
 T6244	Apodemia mormo	T3085	species	Cascades Butterfly Project
 T6245	Atalopedes campestris	T3297	species	Cascades Butterfly Project
 T6246	Boloria astarte	T2691	species	Cascades Butterfly Project
@@ -5248,6 +5261,7 @@ T6271	Chlosyne palla	T2725	species	Cascades Butterfly Project
 T6272	Coenonympha tullia	T2732	species	Cascades Butterfly Project
 T6273	Colias alexandra	T3130	species	Cascades Butterfly Project
 T6716	Colias alexandra	T3132	species	Cascades Butterfly Project
+T6736	Colias alexandra	T3131	species	Cascades Butterfly Project
 T6275	Colias interior	T3142	species	Cascades Butterfly Project
 T6276	Colias nastes	T3145	species	Cascades Butterfly Project
 T6277	Colias occidentalis	T3146	species	Cascades Butterfly Project
@@ -5267,7 +5281,7 @@ T6290	Euchloe lotta	T3158	species	Cascades Butterfly Project
 T6291	Euphilotes ancilla columbiae	T2968	subspecies	Cascades Butterfly Project
 T6292	Euphilotes battoides glaucon	T2964	subspecies	Cascades Butterfly Project
 T6293	Euphilotes enoptes	T2965	species	Cascades Butterfly Project
-T6294	Euphilotes on-heracleoides	T2958	species	Cascades Butterfly Project
+T6294	Euphilotes "battoides" on-heracleoides	T2958	species	Cascades Butterfly Project
 T6295	Euphydryas anicia	T2769	species	Cascades Butterfly Project
 T6296	Euphydryas colon	T2768	species	Cascades Butterfly Project
 T6297	Euphydryas editha	T2770	species	Cascades Butterfly Project
@@ -5331,7 +5345,8 @@ T6354	Polites sabuleti	T3466	species	Cascades Butterfly Project
 T6355	Polites sonora	T3467	species	Cascades Butterfly Project
 T6356	Polites themistocles	T3468	species	Cascades Butterfly Project
 T6357	Polygonia faunus	T2854	species	Cascades Butterfly Project
-T6358	Polygonia gracilis	T2855	species	Cascades Butterfly Project
+T6358	Polygonia gracilis	T6723	species	Cascades Butterfly Project
+T6726	Polygonia gracilis	T2855	species	Cascades Butterfly Project
 T6359	Polygonia oreas	T2858	species	Cascades Butterfly Project
 T6360	Polygonia satyrus	T2860	species	Cascades Butterfly Project
 T6361	Pontia beckerii	T3187	species	Cascades Butterfly Project
