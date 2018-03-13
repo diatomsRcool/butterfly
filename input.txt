@@ -1,0 +1,344 @@
+Start (Receiver) Program	Input	End (Donor) Program
+Colorado	Polygonia gracilis	Cascades
+Colorado	Polygonia zephrys	Cascades
+Colorado	Celastrina ladon	Cascades
+Colorado	Celastrina neglecta	Cascades
+Florida	Celastrina ladon	Cascades
+Florida	Celastrina neglecta	Cascades
+Iowa	Celastrina ladon	Cascades
+Illinois	Megisto cymela	Cascades
+Illinois	Plebejus melissa	Cascades
+Illinois	Celastrina ladon/neglecta	Cascades
+Orange	Euphydryas chalcedona	Cascades
+Orange	Celastrina ladon echo	Cascades
+Michigan	Lycaeides melissa samuelis	Cascades
+MPG	Celastrina echo	Cascades
+MPG	Euphydryas colon	Cascades
+Ohio	Lycaeides melissa samuelis	Cascades
+Ohio	Celastrina ladon	Cascades
+Ohio	Celastrina neglecta	Cascades
+Colorado	Aglais milberti	Cascades
+Colorado	Plebejus glandon	Cascades
+Colorado	Adelpha eulalia	Cascades
+Colorado	Satyrium semiluna	Cascades
+Colorado	Anthocharis thoosa	Cascades
+Colorado	Plebejus lupini lupini	Cascades
+Colorado	Plebejus lupini texanus	Cascades
+Colorado	Phyciodes cocyta	Cascades
+Colorado	Papilio multicaudata	Cascades
+Colorado	Satyrium acadica	Cascades
+Florida	Pyrisitia lisa	Cascades
+Iowa	Aglais milberti	Cascades
+Iowa	Everes comyntas	Cascades
+Iowa	Colias eurytheme	Cascades
+Illinois	Eurema nicippe	Cascades
+Illinois	Nymphalis milbertii	Cascades
+Illinois	Nymphalis vaualbum	Cascades
+Orange	Adelpha bredowii	Cascades
+Orange	Euphilotes battoides	Cascades
+Orange	Anthocharis sara	Cascades
+Michigan	Phyciodes selenis/cocyta	Cascades
+MPG	Aglais milberti	Cascades
+MPG	Polygonia gracilis zephrys	Cascades
+MPG	Phyciodes cocyta selenis	Cascades
+MPG	Papilio multicaudatus	Cascades
+Ohio	Nymphalis vau-album	Cascades
+Ohio	Phyciodes selenis	Cascades
+Tennessee	Abaeis nicippe	Cascades
+MPG	Euphilotes "battoides"	Cascades
+MPG	Anthocharis sara	Cascades
+Cascades	Polygonia gracilis	Colorado
+Cascades	Celastrina echo	Colorado
+Cascades	Celastrina lucia	Colorado
+Cascades	Agriades glandon	Colorado
+Cascades	Adelpha californica	Colorado
+Cascades	Satyrium fulginosum semiluna	Colorado
+Cascades	Anthocharis sara	Colorado
+Cascades	Cercyonis sthenele	Colorado
+Cascades	Plebejus lupini	Colorado
+Cascades	Hesperia colorado	Colorado
+Florida	Celastrina ladon	Colorado
+Florida	Celastrina neglecta	Colorado
+Iowa	Celastrina ladon	Colorado
+Illinois	Celastrina ladon/neglecta	Colorado
+Orange	Adelpha bredowii	Colorado
+Orange	Anthocharis sara	Colorado
+Orange	Cercyonis sthenele silvestris	Colorado
+Orange	Coenonympha tullia california	Colorado
+Orange	Colias alexandra harfordii	Colorado
+Orange	Celastrina ladon echo	Colorado
+Michigan	Lycaeides melissa samuelis	Colorado
+MPG	Polygonia gracilis zephrys	Colorado
+MPG	Anthocharis sara	Colorado
+MPG	Celastrina echo	Colorado
+Ohio	Lycaeides melissa samuelis	Colorado
+Ohio	Celastrina ladon	Colorado
+Ohio	Celastrina neglecta	Colorado
+Cascades	Phyciodes cocyta	Colorado
+Michigan	Phyciodes selenis/cocyta	Colorado
+MPG	Phyciodes cocyta selenis	Colorado
+Ohio	Phyciodes selenis	Colorado
+Cascades	Celastrina echo	Florida
+Cascades	Celastrina lucia	Florida
+Cascades	Euphyes vestris	Florida
+Cascades	Speyeria callippe	Florida
+Colorado	Celastrina ladon	Florida
+Colorado	Celastrina neglecta	Florida
+Iowa	Celastrina ladon	Florida
+Illinois	Megisto cymela	Florida
+Illinois	Satyrium favonius	Florida
+Illinois	Celastrina ladon/neglecta	Florida
+Orange	Celastrina ladon echo	Florida
+Michigan	Satyrium favonius ontario	Florida
+MPG	Celastrina echo	Florida
+Ohio	Copaeodes minimus	Florida
+Ohio	Celastrina ladon	Florida
+Ohio	Celastrina neglecta	Florida
+Tennessee	Echinargus isola	Florida
+Tennessee	Pyrgus communis/albescens	Florida
+Tennessee	Satyrium favonius	Florida
+Tennessee	Satyrium favonius ontario	Florida
+Cascades	Celastrina echo	Iowa
+Cascades	Celastrina lucia	Iowa
+Cascades	Cupido comyntas	Iowa
+Colorado	Celastrina ladon	Iowa
+Colorado	Celastrina neglecta	Iowa
+Florida	Celastrina ladon	Iowa
+Florida	Celastrina neglecta	Iowa
+Illinois	Nymphalis milbertii	Iowa
+Illinois	Everes comyntas	Iowa
+Illinois	Eurema lisa	Iowa
+Illinois	Hemiargus isola	Iowa
+Illinois	Nymphalis vaualbum	Iowa
+Illinois	Colias eurytheme/philodice	Iowa
+Illinois	Pyrgus communis	Iowa
+Illinois	Megisto cymela	Iowa
+Illinois	Speyeria cybele	Iowa
+Illinois	Plebejus melissa	Iowa
+Illinois	Satyrium favonius	Iowa
+Illinois	Celastrina ladon/neglecta	Iowa
+Orange	Celastrina ladon echo	Iowa
+Michigan	Everes comyntas	Iowa
+Michigan	Colias eurytheme	Iowa
+Michigan	Colias philodice	Iowa
+Michigan	Lycaeides melissa samuelis	Iowa
+MPG	Celastrina echo	Iowa
+Ohio	Everes comyntas	Iowa
+Ohio	Lycaeides melissa samuelis	Iowa
+Ohio	Celastrina ladon	Iowa
+Ohio	Celastrina neglecta	Iowa
+Tennessee	Cupido comyntas	Iowa
+Cascades	Celastrina echo	Illinois
+Cascades	Celastrina lucia	Illinois
+Cascades	Aglais milberti	Illinois
+Cascades	Agriades glandon	Illinois
+Colorado	Plebejus glandon	Illinois
+Colorado	Celastrina ladon	Illinois
+Colorado	Celastrina neglecta	Illinois
+Florida	Pyrgus albescens	Illinois
+Florida	Megisto cymela cymela	Illinois
+Florida	Celastrina ladon	Illinois
+Florida	Celastrina neglecta	Illinois
+Iowa	Eurema nicippe	Illinois
+Iowa	Aglais milberti	Illinois
+Iowa	Colias eurytheme	Illinois
+Iowa	Colias philodice	Illinois
+Iowa	Coenonympha tullia	Illinois
+Iowa	Lycaeides melissa	Illinois
+Iowa	Celastrina ladon	Illinois
+Iowa	Achalarus lyciades	Illinois
+Orange	Adelpha bredowii	Illinois
+Orange	Colias eurytheme	Illinois
+Orange	Celastrina ladon echo	Illinois
+Michigan	Nymphalis milberti	Illinois
+Michigan	Hemiargus isola	Illinois
+Michigan	Colias eurytheme	Illinois
+Michigan	Colias philodice	Illinois
+Michigan	Lycaeides melissa samuelis	Illinois
+Michigan	Satyrium favonius ontario	Illinois
+Michigan	Achalarus lyciades	Illinois
+MPG	Celastrina echo	Illinois
+Ohio	Satyrium acadicum	Illinois
+Ohio	Lycaeides melissa samuelis	Illinois
+Ohio	Fixsenia favonius	Illinois
+Ohio	Celastrina ladon	Illinois
+Ohio	Celastrina neglecta	Illinois
+Ohio	Achalarus lyciades	Illinois
+Tennessee	Abaeis nicippe	Illinois
+Tennessee	Colias eurytheme/philodice	Illinois
+Tennessee	Pyrgus communis/albescens	Illinois
+Tennessee	Satyrium favonius	Illinois
+Tennessee	Satyrium favonius ontario	Illinois
+Tennessee	Achalarus lyciades	Illinois
+Cascades	Euphydryas colon	Orange
+Cascades	Celastrina echo	Orange
+Cascades	Celastrina lucia	Orange
+Cascades	Adelpha californica	Orange
+Cascades	Euphilotes "battoides" on-heracleoides	Orange
+Cascades	Anthocharis sara	Orange
+Cascades	Cercyonis sthenele	Orange
+Cascades	Colias alexandra	Orange
+Cascades	Plebejus lupini	Orange
+Cascades	Speyeria callippe	Orange
+Colorado	Adelpha eulalia	Orange
+Colorado	Anthocharis thoosa	Orange
+Colorado	Euphyes vestris	Orange
+Colorado	Celastrina ladon	Orange
+Colorado	Celastrina neglecta	Orange
+Colorado	Papilio multicaudata	Orange
+Florida	Pyrgus communis	Orange
+Florida	Pyrgus albescens	Orange
+Florida	Celastrina ladon	Orange
+Florida	Celastrina neglecta	Orange
+Iowa	Coenonympha tullia	Orange
+Iowa	Celastrina ladon	Orange
+Illinois	Colias eurytheme/philodice	Orange
+Illinois	Pyrgus communis	Orange
+Illinois	Speyeria cybele	Orange
+Illinois	Plebejus melissa	Orange
+Illinois	Celastrina ladon/neglecta	Orange
+MPG	Euphilotes "battoides"	Orange
+MPG	Anthocharis sara	Orange
+MPG	Celastrina echo	Orange
+MPG	Euphydryas colon	Orange
+MPG	Hesperia colorado idaho	Orange
+Ohio	Celastrina ladon	Orange
+Ohio	Celastrina neglecta	Orange
+Tennessee	Colias eurytheme/philodice	Orange
+Tennessee	Pyrgus communis/albescens	Orange
+Cascades	Celastrina echo	Michigan
+Cascades	Celastrina lucia	Michigan
+Cascades	Phyciodes cocyta	Michigan
+Colorado	Pyrisitia lisa	Michigan
+Colorado	Phyciodes cocyta	Michigan
+Colorado	Celastrina ladon	Michigan
+Colorado	Celastrina neglecta	Michigan
+Florida	Megisto cymela viola	Michigan
+Florida	Celastrina ladon	Michigan
+Florida	Celastrina neglecta	Michigan
+Iowa	Euphyes conspicua	Michigan
+Iowa	Satyrium acadica	Michigan
+Iowa	Coenonympha tullia	Michigan
+Iowa	Lycaeides melissa	Michigan
+Illinois	Nymphalis milbertii	Michigan
+Illinois	Nymphalis vaualbum	Michigan
+Illinois	Plebejus melissa	Michigan
+Illinois	Celastrina ladon/neglecta	Michigan
+Illinois	Satyrium favonius	Michigan
+Orange	Celastrina ladon echo	Michigan
+MPG	Phyciodes cocyta selenis	Michigan
+MPG	Celastrina echo	Michigan
+MPG	Speyeria cybele leto	Michigan
+Ohio	Phyciodes selenis	Michigan
+Ohio	Fixsenia favonius	Michigan
+Ohio	Celastrina ladon	Michigan
+Ohio	Celastrina neglecta	Michigan
+Tennessee	Satyrium favonius	Michigan
+Tennessee	Satyrium favonius ontario	Michigan
+Cascades	Celastrina echo	MPG
+Cascades	Celastrina lucia	MPG
+Colorado	Celastrina ladon	MPG
+Colorado	Celastrina neglecta	MPG
+Florida	Celastrina ladon	MPG
+Florida	Celastrina neglecta	MPG
+Iowa	Celastrina ladon	MPG
+Illinois	Celastrina ladon/neglecta	MPG
+Orange	Celastrina ladon echo	MPG
+Michigan	Lycaeides melissa samuelis	MPG
+Michigan	Phyciodes selenis/cocyta	MPG
+Ohio	Lycaeides melissa samuelis	MPG
+Ohio	Phyciodes selenis	MPG
+Ohio	Celastrina ladon	MPG
+Ohio	Celastrina neglecta	MPG
+Cascades	Polygonia gracilis	MPG
+Cascades	Euphydryas colon	MPG
+Cascades	Agriades glandon	MPG
+Cascades	Nymphalis l-album	MPG
+Cascades	Anthocharis sara	MPG
+Cascades	Colias alexandra	MPG
+Cascades	Euphyes vestris	MPG
+Cascades	Plebejus lupini	MPG
+Cascades	Speyeria callippe	MPG
+Cascades	Hesperia colorado	MPG
+Cascades	Phyciodes cocyta	MPG
+Cascades	Euphilotes "battoides" on-heracleoides	MPG
+Colorado	Plebejus glandon	MPG
+Colorado	Polygonia gracilis	MPG
+Colorado	Polygonia zephrys	MPG
+Colorado	Anthocharis thoosa	MPG
+Colorado	Phyciodes cocyta	MPG
+Illinois	Speyeria cybele	MPG
+Orange	Euphilotes battoides	MPG
+Orange	Euphydryas chalcedona	MPG
+Orange	Anthocharis sara	MPG
+Orange	Speyeria callippe comstocki	MPG
+Cascades	Polygonia gracilis	Ohio
+Cascades	Celastrina echo	Ohio
+Cascades	Celastrina lucia	Ohio
+Cascades	Phyciodes cocyta	Ohio
+Colorado	Phyciodes cocyta	Ohio
+Colorado	Celastrina ladon	Ohio
+Colorado	Celastrina neglecta	Ohio
+Florida	Copaeodes minima	Ohio
+Florida	Celastrina ladon	Ohio
+Florida	Celastrina neglecta	Ohio
+Iowa	Celastrina ladon	Ohio
+Illinois	Euphyes conspicua	Ohio
+Illinois	Nymphalis vaualbum	Ohio
+Illinois	Satyrium favonius	Ohio
+Illinois	Celastrina ladon/neglecta	Ohio
+Orange	Pyrgus albescens	Ohio
+Orange	Celastrina ladon echo	Ohio
+Michigan	Lycaeides melissa samuelis	Ohio
+Michigan	Phyciodes selenis/cocyta	Ohio
+Michigan	Satyrium favonius ontario	Ohio
+MPG	Phyciodes cocyta selenis	Ohio
+MPG	Celastrina echo	Ohio
+Tennessee	Satyrium favonius	Ohio
+Tennessee	Satyrium favonius ontario	Ohio
+Cascades	Celastrina echo	Tennessee
+Cascades	Celastrina lucia	Tennessee
+Cascades	Hesperia colorado	Tennessee
+Colorado	Echinargus isola	Tennessee
+Colorado	Celastrina ladon	Tennessee
+Colorado	Celastrina neglecta	Tennessee
+Colorado	Agraulis vanillae	Tennessee
+Florida	Pyrgus communis	Tennessee
+Florida	Pyrgus albescens	Tennessee
+Florida	Celastrina ladon	Tennessee
+Florida	Celastrina neglecta	Tennessee
+Iowa	Eurema nicippe	Tennessee
+Iowa	Everes comyntas	Tennessee
+Iowa	Celastrina ladon	Tennessee
+Iowa	Agraulis vanillae	Tennessee
+Illinois	Eurema nicippe	Tennessee
+Illinois	Eurema lisa	Tennessee
+Illinois	Pyrgus communis	Tennessee
+Illinois	Agraulis vanillae	Tennessee
+Illinois	Satyrium favonius	Tennessee
+Orange	Pyrgus albescens	Tennessee
+Orange	Euphyes vestris harbisoni	Tennessee
+Orange	Celastrina ladon echo	Tennessee
+Michigan	Lycaeides melissa samuelis	Tennessee
+Michigan	Satyrium favonius ontario	Tennessee
+MPG	Celastrina echo	Tennessee
+Ohio	Euphyes conspicuus	Tennessee
+Ohio	Fixsenia favonius	Tennessee
+Ohio	Celastrina ladon	Tennessee
+Ohio	Celastrina neglecta	Tennessee
+Ohio	Agraulis vanillae	Tennessee
+Cascades	Agraulis vanillae	Tennessee
+Colorado	Celastrina humulus	Cascades
+Colorado	Celastrina humulus	Florida
+Colorado	Celastrina humulus	Illinois
+Colorado	Celastrina humulus	Iowa
+Colorado	Celastrina humulus	Michigan
+Colorado	Celastrina humulus	MPG
+Cascades	Aglais lyciades	Illinois
+Colorado	Celastrina humulus	Ohio
+Colorado	Celastrina humulus	Orange
+Colorado	Celastrina humulus	Tennessee
+Michigan	Celastrina ladon/neglecta	Cascades
+Michigan	Celastrina ladon/neglecta	Colorado
+Tennessee	Celastrina ladon/neglecta	Cascades
+Tennessee	Celastrina ladon/neglecta	Colorado

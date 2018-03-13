@@ -3646,6 +3646,7 @@ T4601	Erora quaderna	T1285	species	Opler, P.A. and A.D. Warren, 2005. Lepidopter
 T4602	Eumaeus atala	T1286	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4603	Eumaeus toxea	T1287	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4604	Euphilotes battoides	T1288	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
+T4748	Euphilotes battoides	T1294	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4605	Euphilotes battoides centralis	T1289	subspecies	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4606	Euphilotes bernardino	T1290	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4607	Euphilotes baueri	T1291	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
@@ -4252,7 +4253,6 @@ T5222	Nathalis iole	T3997	species	Illinois Butterfly Monitoring Network
 T5223	Callophrys irus	T3767	species	Illinois Butterfly Monitoring Network
 T5224	Hemiargus isola	T3822	species	Illinois Butterfly Monitoring Network
 T5225	Erynnis juvenalis	T4155	species	Illinois Butterfly Monitoring Network
-T5226	Celastrina ladon/neglecta	T3779	species	Illinois Butterfly Monitoring Network
 T5329	Celastrina ladon/neglecta	T3783	species	Illinois Butterfly Monitoring Network
 T6712	Celastrina ladon/neglecta	T3780	species	Illinois Butterfly Monitoring Network
 T5228	Nastra lherminier	T4217	species	Illinois Butterfly Monitoring Network
@@ -4270,7 +4270,8 @@ T5239	Leptotes marina	T3828	species	Illinois Butterfly Monitoring Network
 T5240	Erynnis martialis	T4157	species	Illinois Butterfly Monitoring Network
 T5241	Poanes massasoit	T4251	species	Illinois Butterfly Monitoring Network
 T5242	Strymon melinus	T3902	species	Illinois Butterfly Monitoring Network
-T5243	Plebejus melissa	T3831	species	Illinois Butterfly Monitoring Network
+T5243	Plebejus melissa	T3830	species	Illinois Butterfly Monitoring Network
+T6737	Plebejus melissa	T3831	species	Illinois Butterfly Monitoring Network
 T5244	Hesperia metea	T4193	species	Illinois Butterfly Monitoring Network
 T5245	Eurema mexicana	T3989	species	Illinois Butterfly Monitoring Network
 T5246	Anthocharis midea	T3943	species	Illinois Butterfly Monitoring Network
@@ -4354,6 +4355,7 @@ T5355	Callophrys polios	T3773	species	Michigan Butterfly Network
 T5356	Carterocephalus palaemon	T4122	species	Michigan Butterfly Network
 T5357	Celastrina ladon/neglecta	T3783	species	Michigan Butterfly Network
 T5472	Celastrina ladon/neglecta	T3784	species	Michigan Butterfly Network
+T6750	Celastrina ladon/neglecta	T3780	species	Michigan Butterfly Network
 T5358	Cercyonis pegala	T3567	species	Michigan Butterfly Network
 T5359	Chlosyne gorgone	T3576	species	Michigan Butterfly Network
 T5360	Chlosyne harrisii	T3577	species	Michigan Butterfly Network
@@ -4468,7 +4470,6 @@ T5469	Papilio rutulus	T3227	species	MPG Ranch Butterfly Monitoring Network
 T5470	Papilio eurymedon	T3214	species	MPG Ranch Butterfly Monitoring Network
 T5471	Papilio multicaudatus	T3220	species	MPG Ranch Butterfly Monitoring Network
 T5473	Anthocharis sara	T3122	species	MPG Ranch Butterfly Monitoring Network
-T6735	Anthocharis sara	T3124	species	MPG Ranch Butterfly Monitoring Network
 T5474	Euchloe ausonides	T3154	species	MPG Ranch Butterfly Monitoring Network
 T5475	Euchloe lotta	T3158	species	MPG Ranch Butterfly Monitoring Network
 T5477	Neophasia menapia	T3174	species	MPG Ranch Butterfly Monitoring Network
@@ -4501,14 +4502,14 @@ T5507	Celastrina echo	T2930	species	MPG Ranch Butterfly Monitoring Network
 T5508	Glaucopsyche piasus	T2976	species	MPG Ranch Butterfly Monitoring Network
 T5509	Glaucopsyche lygdamus	T2974	species	MPG Ranch Butterfly Monitoring Network
 T5580	Glaucopsyche lygdamus	T2975	species	MPG Ranch Butterfly Monitoring Network
-T5510	Euphilotes glaucon	T2958	species	MPG Ranch Butterfly Monitoring Network
-T5511	Euphilotes ancilla	T2967	species	MPG Ranch Butterfly Monitoring Network
+T5510	Euphilotes glaucon	T2964	species	MPG Ranch Butterfly Monitoring Network
 T5512	Plebejus saepiolus	T2987	species	MPG Ranch Butterfly Monitoring Network
 T5513	Plebejus icarioides	T2984	species	MPG Ranch Butterfly Monitoring Network
 T5581	Plebejus icarioides	T2985	species	MPG Ranch Butterfly Monitoring Network
 T5514	Plebejus lupini	T2981	species	MPG Ranch Butterfly Monitoring Network
 T5515	Plebejus idas	T3023	species	MPG Ranch Butterfly Monitoring Network
 T5516	Plebejus melissa	T3024	species	MPG Ranch Butterfly Monitoring Network
+T6739	Plebejus melissa	T3025	species	MPG Ranch Butterfly Monitoring Network
 T5519	Danaus plexippus	T2738	species	MPG Ranch Butterfly Monitoring Network
 T5520	Euptoieta claudia	T2773	species	MPG Ranch Butterfly Monitoring Network
 T5521	Boloria selene	T2703	species	MPG Ranch Butterfly Monitoring Network
@@ -4562,7 +4563,7 @@ T5574	Hesperia nevada	T3392	species	MPG Ranch Butterfly Monitoring Network
 T5575	Polites mystic	T3462	species	MPG Ranch Butterfly Monitoring Network
 T5576	Ocholdes sylvanoides	T3426	species	MPG Ranch Butterfly Monitoring Network
 T6730	Euphilotes "battoides"	T2958	species	MPG Ranch Butterfly Monitoring Network
-T6731	Euphilotes "battoides"	T2958	species	MPG Ranch Butterfly Monitoring Network
+T6731	Euphilotes "battoides"	T2964	species	MPG Ranch Butterfly Monitoring Network
 T6732	Euphilotes "battoides"	T2967	species	MPG Ranch Butterfly Monitoring Network
 T5586	Limenitis arthemis astyanax	T4461	species	Colorado Butterfly Monitoring Network
 T5830	Limenitis arthemis astyanax	T5305	species	Colorado Butterfly Monitoring Network
@@ -4724,6 +4725,7 @@ T5734	Euphilotes stanfordorum	T3078	species	Colorado Butterfly Monitoring Networ
 T5735	Echinargus isola	T4596	species	Colorado Butterfly Monitoring Network
 T5737	Plebejus idas	T4660	species	Colorado Butterfly Monitoring Network
 T5738	Plebejus melissa	T4661	species	Colorado Butterfly Monitoring Network
+T6739	Plebejus melissa	T4662	species	Colorado Butterfly Monitoring Network
 T5739	Plebejus saepiolus	T4671	species	Colorado Butterfly Monitoring Network
 T5740	Plebejus icarioides	T4669	species	Colorado Butterfly Monitoring Network
 T5741	Plebejus shasta	T4672	species	Colorado Butterfly Monitoring Network
@@ -4918,13 +4920,11 @@ T5933	Erora laeta	T3796	species	Tennessee Butterfly Monitoring Network
 T5934	Leptotes marina	T3828	species	Tennessee Butterfly Monitoring Network
 T5935	Cupido comyntas	T3814	species	Tennessee Butterfly Monitoring Network
 T5936	Celastrina ladon/neglecta	T3780	species	Tennessee Butterfly Monitoring Network
-T5979	Celastrina ladon	T3910	species	Tennessee Butterfly Monitoring Network
-T5980	Celastrina ladon	T3911	species	Tennessee Butterfly Monitoring Network
 T5981	Celastrina ladon/neglecta	T3783	species	Tennessee Butterfly Monitoring Network
 T5937	Celastrina nigra	T3786	species	Tennessee Butterfly Monitoring Network
 T5938	Celastrina neglectamajor	T3785	species	Tennessee Butterfly Monitoring Network
 T5939	Glaucopsyche lygdamus	T3816	species	Tennessee Butterfly Monitoring Network
-T5940	Echinargus isola	T4596	species	Tennessee Butterfly Monitoring Network
+T5940	Echinargus isola	T3822	species	Tennessee Butterfly Monitoring Network
 T5941	Libytheana carinenta	T3653	species	Tennessee Butterfly Monitoring Network
 T5942	Danaus plexippus	T3598	species	Tennessee Butterfly Monitoring Network
 T5943	Agraulis vanillae	T3536	species	Tennessee Butterfly Monitoring Network
@@ -4980,7 +4980,7 @@ T6715	Callophrys perplexa	T4551	species	Orange County Butterfly Monitoring Netwo
 T5995	Celastrina ladon echo	T4578	subspecies	Orange County Butterfly Monitoring Network
 T5996	Cercyonis sthenele silvestris	T4373	subspecies	Orange County Butterfly Monitoring Network
 T5997	Chlosyne gabbii	T4380	species	Orange County Butterfly Monitoring Network
-T5998	Chlosyne leanira†	T4386	species	Orange County Butterfly Monitoring Network
+T5998	Chlosyne leanira	T4386	species	Orange County Butterfly Monitoring Network
 T5999	Coenonympha tullia california	T4397	subspecies	Orange County Butterfly Monitoring Network
 T6000	Colias alexandra harfordii	T4755	subspecies	Orange County Butterfly Monitoring Network
 T6001	Colias eurytheme	T4762	species	Orange County Butterfly Monitoring Network
@@ -4989,9 +4989,9 @@ T6003	Danaus gilippus	T4402	species	Orange County Butterfly Monitoring Network
 T6004	Danaus plexippus	T4403	species	Orange County Butterfly Monitoring Network
 T6005	Erynnis funeralis	T4956	species	Orange County Butterfly Monitoring Network
 T6006	Erynnis tristis	T4968	species	Orange County Butterfly Monitoring Network
-T6007	Euphilotes battoides	T4606	species	Orange County Butterfly Monitoring Network
+T6007	Euphilotes battoides	T4604	species	Orange County Butterfly Monitoring Network
+T6747	Euphilotes battoides	T4748	species	Orange County Butterfly Monitoring Network
 T6008	Euphydryas chalcedona	T4432	species	Orange County Butterfly Monitoring Network
-T6733	Euphydryas chalcedona	T4433	species	Orange County Butterfly Monitoring Network
 T6009	Euphydryas editha	T4435	species	Orange County Butterfly Monitoring Network
 T6010	Euphyes vestris harbisoni	T4978	subspecies	Orange County Butterfly Monitoring Network
 T6011	Glaucopsyche lygdamus	T4618	species	Orange County Butterfly Monitoring Network
@@ -5080,7 +5080,7 @@ T6096	Celastrina ladon	T3780	species	Ohio Butterfly Monitoring Network
 T6232	Celastrina ladon	T3910	species	Ohio Butterfly Monitoring Network
 T6233	Celastrina ladon	T3911	species	Ohio Butterfly Monitoring Network
 T6097	Celastrina neglecta	T3783	species	Ohio Butterfly Monitoring Network
-T6098	Celastrina neglectamajor 	T3785	species	Ohio Butterfly Monitoring Network
+T6098	Celastrina neglectamajor	T3785	species	Ohio Butterfly Monitoring Network
 T6099	Celastrina nigra	T3786	species	Ohio Butterfly Monitoring Network
 T6100	Cercyonis pegala	T3567	species	Ohio Butterfly Monitoring Network
 T6101	Chlosyne gorgone 	T3576	species	Ohio Butterfly Monitoring Network
@@ -5166,9 +5166,9 @@ T6176	Papilio troilus	T4042	species	Ohio Butterfly Monitoring Network
 T6177	Parrhasius m-album	T3857	species	Ohio Butterfly Monitoring Network
 T6178	Phoebis philea	T4003	species	Ohio Butterfly Monitoring Network
 T6179	Phoebis sennae	T4004	species	Ohio Butterfly Monitoring Network
-T6180	Pholisora catullus 	T4242	species	Ohio Butterfly Monitoring Network
-T6181	Phyciodes batesii 	T3691	species	Ohio Butterfly Monitoring Network
-T6182	Phyciodes selenis 	T3698	species	Ohio Butterfly Monitoring Network
+T6180	Pholisora catullus	T4242	species	Ohio Butterfly Monitoring Network
+T6181	Phyciodes batesii	T3691	species	Ohio Butterfly Monitoring Network
+T6182	Phyciodes selenis	T3698	species	Ohio Butterfly Monitoring Network
 T6183	Phyciodes tharos	T3699	species	Ohio Butterfly Monitoring Network
 T6184	Pieris napi	T4008	species	Ohio Butterfly Monitoring Network
 T6185	Pieris rapae	T4010	species	Ohio Butterfly Monitoring Network
@@ -5224,7 +5224,6 @@ T6241	Agriades glandon	T2889	species	Cascades Butterfly Project
 T6242	Amblyscirtes vialis	T3281	species	Cascades Butterfly Project
 T6243	Anthocharis sara	T3121	species	Cascades Butterfly Project
 T6390	Anthocharis sara	T3122	species	Cascades Butterfly Project
-T6734	Anthocharis sara	T3124	species	Cascades Butterfly Project
 T6244	Apodemia mormo	T3085	species	Cascades Butterfly Project
 T6245	Atalopedes campestris	T3297	species	Cascades Butterfly Project
 T6246	Boloria astarte	T2691	species	Cascades Butterfly Project
@@ -5249,9 +5248,7 @@ T6261	Callophrys sheridanii	T2925	species	Cascades Butterfly Project
 T6262	Callophrys spinetorum	T2926	species	Cascades Butterfly Project
 T6263	Carterocephalus palaemon	T3316	species	Cascades Butterfly Project
 T6264	Celastrina echo	T2930	species	Cascades Butterfly Project
-T6394	Celastrina echo	T2931	species	Cascades Butterfly Project
 T6265	Celastrina lucia	T2936	species	Cascades Butterfly Project
-T6396	Celastrina lucia	T2931	species	Cascades Butterfly Project
 T6266	Cercyonis oetus	T2706	species	Cascades Butterfly Project
 T6267	Cercyonis pegala	T2707	species	Cascades Butterfly Project
 T6268	Cercyonis sthenele	T2708	species	Cascades Butterfly Project
@@ -5261,7 +5258,6 @@ T6271	Chlosyne palla	T2725	species	Cascades Butterfly Project
 T6272	Coenonympha tullia	T2732	species	Cascades Butterfly Project
 T6273	Colias alexandra	T3130	species	Cascades Butterfly Project
 T6716	Colias alexandra	T3132	species	Cascades Butterfly Project
-T6736	Colias alexandra	T3131	species	Cascades Butterfly Project
 T6275	Colias interior	T3142	species	Cascades Butterfly Project
 T6276	Colias nastes	T3145	species	Cascades Butterfly Project
 T6277	Colias occidentalis	T3146	species	Cascades Butterfly Project
@@ -5337,6 +5333,7 @@ T6346	Plebejus icarioides	T2984	species	Cascades Butterfly Project
 T6347	Plebejus idas	T3023	species	Cascades Butterfly Project
 T6348	Plebejus lupini	T2981	species	Cascades Butterfly Project
 T6349	Plebejus melissa	T3024	species	Cascades Butterfly Project
+T6738	Plebejus melissa	T3025	species	Cascades Butterfly Project
 T6350	Plebejus saepiolus	T2987	species	Cascades Butterfly Project
 T6351	Polites mardon	T3461	species	Cascades Butterfly Project
 T6352	Polites mystic	T3462	species	Cascades Butterfly Project
@@ -5692,4 +5689,4 @@ T6707	Vanessa virginiensis	T4541	species	Florida Butterfly Monitoring Network
 T6708	Wallengrenia egeremet	T5128	species	Florida Butterfly Monitoring Network
 T6709	Wallengrenia otho	T5129	species	Florida Butterfly Monitoring Network
 T6710	Zerene cesonia	T4814	species	Florida Butterfly Monitoring Network
-T6711	Hypolimnas misippus		species	
+T6711	Hypolimnas misippus		species	Florida Butterfly Monitoring Network
