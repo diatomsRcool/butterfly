@@ -3791,7 +3791,7 @@ T4744	Anthocharis midea	T1432	species	Opler, P.A. and A.D. Warren, 2005. Lepidop
 T4745	Anthocharis sara	T1434	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4746	Anthocharis stella	T1435	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4747	Anthocharis julia	T1436	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
-T4748	Anthocharis thoosa	T1437	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
+T6752	Anthocharis thoosa	T1437	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4749	Aphrissa orbis	T1438	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4750	Aphrissa statira	T1439	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
 T4751	Appias drusilla	T1479	species	Opler, P.A. and A.D. Warren, 2005. Lepidoptera of North America. 4. Scientific Names List for Butterfly Species of North America, north of Mexico. Contributions of the C. P. Gillette Museum of Arthropod Diversity, Colorado State University. 79pp.
@@ -4255,6 +4255,8 @@ T5224	Hemiargus isola	T3822	species	Illinois Butterfly Monitoring Network
 T5225	Erynnis juvenalis	T4155	species	Illinois Butterfly Monitoring Network
 T5329	Celastrina ladon/neglecta	T3783	species	Illinois Butterfly Monitoring Network
 T6712	Celastrina ladon/neglecta	T3780	species	Illinois Butterfly Monitoring Network
+T6753	Celastrina ladon/neglecta	T3779	species	Illinois Butterfly Monitoring Network
+T6754	Celastrina ladon/neglecta	T3784	species	Illinois Butterfly Monitoring Network
 T5228	Nastra lherminier	T4217	species	Illinois Butterfly Monitoring Network
 T5229	Amblyscirtes linda	T4083	species	Illinois Butterfly Monitoring Network
 T5230	Thymelicus lineola	T1816	species	Illinois Butterfly Monitoring Network
@@ -4356,6 +4358,8 @@ T5356	Carterocephalus palaemon	T4122	species	Michigan Butterfly Network
 T5357	Celastrina ladon/neglecta	T3783	species	Michigan Butterfly Network
 T5472	Celastrina ladon/neglecta	T3784	species	Michigan Butterfly Network
 T6750	Celastrina ladon/neglecta	T3780	species	Michigan Butterfly Network
+T6759	Celastrina ladon/neglecta	T3779	species	Michigan Butterfly Network
+T6760	Celastrina ladon/neglecta	T3782	species	Michigan Butterfly Network
 T5358	Cercyonis pegala	T3567	species	Michigan Butterfly Network
 T5359	Chlosyne gorgone	T3576	species	Michigan Butterfly Network
 T5360	Chlosyne harrisii	T3577	species	Michigan Butterfly Network
@@ -4650,7 +4654,7 @@ T5662	Papilio eurymedon	T4828	species	Colorado Butterfly Monitoring Network
 T5663	Papilio multicaudata	T4833	species	Colorado Butterfly Monitoring Network
 T5664	Papilio cresphontes	T4827	species	Colorado Butterfly Monitoring Network
 T5665	Anthocharis julia	T4747	species	Colorado Butterfly Monitoring Network
-T5666	Anthocharis thoosa	T4748	species	Colorado Butterfly Monitoring Network
+T5666	Anthocharis thoosa	T6752	species	Colorado Butterfly Monitoring Network
 T5667	Euchloe ausonides	T4776	species	Colorado Butterfly Monitoring Network
 T5668	Euchloe olympia	T4782	species	Colorado Butterfly Monitoring Network
 T5669	Euchloe lotta	T4780	species	Colorado Butterfly Monitoring Network
@@ -4711,8 +4715,10 @@ T5721	Brephidium exilis	T4545	species	Colorado Butterfly Monitoring Network
 T5722	Cupido comyntas	T4590	species	Colorado Butterfly Monitoring Network
 T5723	Cupido amyntula	T4589	species	Colorado Butterfly Monitoring Network
 T5724	Celastrina ladon	T4579	species	Colorado Butterfly Monitoring Network
+T6763	Celastrina ladon	T4578	species	Colorado Butterfly Monitoring Network
 T5725	Celastrina neglecta	T4582	species	Colorado Butterfly Monitoring Network
 T5726	Celastrina humulus	T4581	species	Colorado Butterfly Monitoring Network
+T6755	Celastrina humulus	T4579	species	Colorado Butterfly Monitoring Network
 T5727	Glaucopsyche piasus	T4620	species	Colorado Butterfly Monitoring Network
 T5728	Glaucopsyche lygdamus	T4618	species	Colorado Butterfly Monitoring Network
 T5839	Glaucopsyche lygdamus	T4619	species	Colorado Butterfly Monitoring Network
@@ -4921,6 +4927,9 @@ T5934	Leptotes marina	T3828	species	Tennessee Butterfly Monitoring Network
 T5935	Cupido comyntas	T3814	species	Tennessee Butterfly Monitoring Network
 T5936	Celastrina ladon/neglecta	T3780	species	Tennessee Butterfly Monitoring Network
 T5981	Celastrina ladon/neglecta	T3783	species	Tennessee Butterfly Monitoring Network
+T6755	Celastrina ladon/neglecta	T3779	species	Tennessee Butterfly Monitoring Network
+T6756	Celastrina ladon/neglecta	T3784	species	Tennessee Butterfly Monitoring Network
+T6757	Celastrina ladon/neglecta	T3782	species	Tennessee Butterfly Monitoring Network
 T5937	Celastrina nigra	T3786	species	Tennessee Butterfly Monitoring Network
 T5938	Celastrina neglectamajor	T3785	species	Tennessee Butterfly Monitoring Network
 T5939	Glaucopsyche lygdamus	T3816	species	Tennessee Butterfly Monitoring Network
@@ -5079,6 +5088,8 @@ T6095	Calycopis cecrops	T3777	species	Ohio Butterfly Monitoring Network
 T6096	Celastrina ladon	T3780	species	Ohio Butterfly Monitoring Network
 T6232	Celastrina ladon	T3910	species	Ohio Butterfly Monitoring Network
 T6233	Celastrina ladon	T3911	species	Ohio Butterfly Monitoring Network
+T6761	Celastrina ladon	T3779	species	Ohio Butterfly Monitoring Network
+T6762	Celastrina ladon	T3784	species	Ohio Butterfly Monitoring Network
 T6097	Celastrina neglecta	T3783	species	Ohio Butterfly Monitoring Network
 T6098	Celastrina neglectamajor	T3785	species	Ohio Butterfly Monitoring Network
 T6099	Celastrina nigra	T3786	species	Ohio Butterfly Monitoring Network
@@ -5224,6 +5235,7 @@ T6241	Agriades glandon	T2889	species	Cascades Butterfly Project
 T6242	Amblyscirtes vialis	T3281	species	Cascades Butterfly Project
 T6243	Anthocharis sara	T3121	species	Cascades Butterfly Project
 T6390	Anthocharis sara	T3122	species	Cascades Butterfly Project
+T6751	Anthocharis sara	T3124	species	Cascades Butterfly Project
 T6244	Apodemia mormo	T3085	species	Cascades Butterfly Project
 T6245	Atalopedes campestris	T3297	species	Cascades Butterfly Project
 T6246	Boloria astarte	T2691	species	Cascades Butterfly Project
@@ -5395,6 +5407,9 @@ T6413	Callophrys gryneus	T5323	species	Iowa Butterfly Survey Network
 T6414	Callophrys henrici	T3765	species	Iowa Butterfly Survey Network
 T6415	Celastrina ladon	T3780	species	Iowa Butterfly Survey Network
 T6515	Celastrina ladon	T3783	species	Iowa Butterfly Survey Network
+T6756	Celastrina ladon	T3779	species	Iowa Butterfly Survey Network
+T6757	Celastrina ladon	T3784	species	Iowa Butterfly Survey Network
+T6758	Celastrina ladon	T3782	species	Iowa Butterfly Survey Network
 T6416	Cercyonis pegala	T3567	species	Iowa Butterfly Survey Network
 T6417	Chlosyne gorgone	T3576	species	Iowa Butterfly Survey Network
 T6418	Chlosyne nycteis	T3584	species	Iowa Butterfly Survey Network
@@ -5543,6 +5558,7 @@ T6561	Callophrys niphon	T4571	species	Florida Butterfly Monitoring Network
 T6562	Calpodes ethlius	T4922	species	Florida Butterfly Monitoring Network
 T6563	Calycopis cecrops	T4576	species	Florida Butterfly Monitoring Network
 T6564	Celastrina ladon	T4579	species	Florida Butterfly Monitoring Network
+T6754	Celastrina ladon	T4578	species	Florida Butterfly Monitoring Network
 T6565	Celastrina neglecta	T4582	species	Florida Butterfly Monitoring Network
 T6566	Cercyonis pegala	T4372	species	Florida Butterfly Monitoring Network
 T6567	Chlorostrymon maesites	T4586	species	Florida Butterfly Monitoring Network
