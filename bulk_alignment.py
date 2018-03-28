@@ -141,7 +141,7 @@ def find_taxon(end_list, taxon_ids):
 		found_name = 0
 
 	if found_name == 0:
-		error_message = 'There is no match in this list (species assumed absent). ' + error_message
+		error_message = 'There is no match in this list (species assumed absent).'
 	elif error_message != '':
 		error_message = 'There is no exact match in this list. Proceed with caution. ' + error_message
 
