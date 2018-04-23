@@ -234,7 +234,7 @@ T1229	Brephidium pseudofea	T1000	species
 T1230	Callophrys augustinus	T1000	species
 T1231	Callophrys affinis affinis	T1233	species
 T1232	Callophrys affinis apama	T1233	species
-T1233	Callophrys affinis 	T1000	species
+T1233	Callophrys affinis	T1000	species
 T1234	Callophrys dumetorum	T1000	species
 T1235	Callophrys dumetorum dumetorum	T1234	subspecies
 T1236	Callophrys perplexa	T1000	species
@@ -2179,7 +2179,7 @@ T3146	Colias occidentalis	T1458	species	Pelham, J.P., 2014. A catalogue of the b
 T3147	Colias palaeno	T1459	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3148	Colias pelidne	T1460	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3149	Colias skinneri	T1461	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
-T3150	Colias philodice	T2292	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
+T3150	Colias philodice	T1462	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3151	Colias rankinensis	T3198	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3152	Colias scudderii	T2293	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3153	Enantia albania	T1464	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
@@ -2315,7 +2315,7 @@ T3285	Ancyloxypha arene	T1592	species	Pelham, J.P., 2014. A catalogue of the but
 T3286	Ancyloxypha numitor	T1593	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3287	Antigonus emorsa	T1594	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3288	Antigonus erosus	T1595	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
-T3289	Apyrrothrix araxes  	T1596	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
+T3289	Apyrrothrix araxes	T1596	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3290	Arteurotia tractipennis	T1597	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3291	Asbolis capucinus	T1598	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3292	Astraptes alardus	T1599	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
@@ -2342,7 +2342,7 @@ T3312	Bolla clytius	T1619	species	Pelham, J.P., 2014. A catalogue of the butterf
 T3313	Cabares potrillo	T1620	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3314	Calpodes ethlius	T1621	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3315	Carrhenes canescens	T1622	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
-T3316	Carterocephalus  palaemon 	T1623	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
+T3316	Carterocephalus palaemon	T1623	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3317	Celaenorrhinus fritzgaertneri	T1624	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3318	Celaenorrhinus stallingsi	T1625	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
 T3319	Celotes limpia	T1626	species	Pelham, J.P., 2014. A catalogue of the butterflies of the United States and Canada: with a complete bibliography of the descriptive and systematic literature.
@@ -4474,6 +4474,7 @@ T5469	Papilio rutulus	T3227	species	MPG Ranch Butterfly Monitoring Network
 T5470	Papilio eurymedon	T3214	species	MPG Ranch Butterfly Monitoring Network
 T5471	Papilio multicaudatus	T3220	species	MPG Ranch Butterfly Monitoring Network
 T5473	Anthocharis sara	T3122	species	MPG Ranch Butterfly Monitoring Network
+T6765	Anthocharis sara	T3124	species	MPG Ranch Butterfly Monitoring Network
 T5474	Euchloe ausonides	T3154	species	MPG Ranch Butterfly Monitoring Network
 T5475	Euchloe lotta	T3158	species	MPG Ranch Butterfly Monitoring Network
 T5477	Neophasia menapia	T3174	species	MPG Ranch Butterfly Monitoring Network
@@ -4486,6 +4487,7 @@ T5484	Pontia sisymbrii	T3190	species	MPG Ranch Butterfly Monitoring Network
 T5486	Colias philodice	T3150	species	MPG Ranch Butterfly Monitoring Network
 T5487	Colias eurytheme	T3139	species	MPG Ranch Butterfly Monitoring Network
 T5488	Colias alexandra	T3130	species	MPG Ranch Butterfly Monitoring Network
+T6767	Colias alexandra	T3131	species	MPG Ranch Butterfly Monitoring Network
 T5489	Colias interior	T3142	species	MPG Ranch Butterfly Monitoring Network
 T5491	Lycaena editha	T2998	species	MPG Ranch Butterfly Monitoring Network
 T5492	Lycaena heteronea	T3003	species	MPG Ranch Butterfly Monitoring Network
@@ -4567,7 +4569,6 @@ T5574	Hesperia nevada	T3392	species	MPG Ranch Butterfly Monitoring Network
 T5575	Polites mystic	T3462	species	MPG Ranch Butterfly Monitoring Network
 T5576	Ocholdes sylvanoides	T3426	species	MPG Ranch Butterfly Monitoring Network
 T6730	Euphilotes "battoides"	T2958	species	MPG Ranch Butterfly Monitoring Network
-T6731	Euphilotes "battoides"	T2964	species	MPG Ranch Butterfly Monitoring Network
 T6732	Euphilotes "battoides"	T2967	species	MPG Ranch Butterfly Monitoring Network
 T5586	Limenitis arthemis astyanax	T4461	species	Colorado Butterfly Monitoring Network
 T5830	Limenitis arthemis astyanax	T5305	species	Colorado Butterfly Monitoring Network
@@ -5001,6 +5002,7 @@ T6006	Erynnis tristis	T4968	species	Orange County Butterfly Monitoring Network
 T6007	Euphilotes battoides	T4604	species	Orange County Butterfly Monitoring Network
 T6747	Euphilotes battoides	T4748	species	Orange County Butterfly Monitoring Network
 T6008	Euphydryas chalcedona	T4432	species	Orange County Butterfly Monitoring Network
+T6764	Euphydryas chalcedona	T4433	species	Orange County Butterfly Monitoring Network
 T6009	Euphydryas editha	T4435	species	Orange County Butterfly Monitoring Network
 T6010	Euphyes vestris harbisoni	T4978	subspecies	Orange County Butterfly Monitoring Network
 T6011	Glaucopsyche lygdamus	T4618	species	Orange County Butterfly Monitoring Network
@@ -5075,8 +5077,8 @@ T6082	Autochton cellus	T4114	species	Ohio Butterfly Monitoring Network
 T6083	Battus philenor	T4016	species	Ohio Butterfly Monitoring Network
 T6084	Boloria bellona	T3553	species	Ohio Butterfly Monitoring Network
 T6085	Boloria selene	T3564	species	Ohio Butterfly Monitoring Network
-T6086	Calephelis borealis 	T3923	species	Ohio Butterfly Monitoring Network
-T6087	Calephelis muticum 	T3924	species	Ohio Butterfly Monitoring Network
+T6086	Calephelis borealis	T3923	species	Ohio Butterfly Monitoring Network
+T6087	Calephelis muticum	T3924	species	Ohio Butterfly Monitoring Network
 T6088	Callophrys augustinus	T3750	species	Ohio Butterfly Monitoring Network
 T6089	Callophrys gryneus	T5323	species	Ohio Butterfly Monitoring Network
 T6090	Callophrys henrici	T3765	species	Ohio Butterfly Monitoring Network
@@ -5094,18 +5096,18 @@ T6097	Celastrina neglecta	T3783	species	Ohio Butterfly Monitoring Network
 T6098	Celastrina neglectamajor	T3785	species	Ohio Butterfly Monitoring Network
 T6099	Celastrina nigra	T3786	species	Ohio Butterfly Monitoring Network
 T6100	Cercyonis pegala	T3567	species	Ohio Butterfly Monitoring Network
-T6101	Chlosyne gorgone 	T3576	species	Ohio Butterfly Monitoring Network
+T6101	Chlosyne gorgone	T3576	species	Ohio Butterfly Monitoring Network
 T6102	Chlosyne harrisii	T3577	species	Ohio Butterfly Monitoring Network
 T6103	Chlosyne nycteis	T3584	species	Ohio Butterfly Monitoring Network
 T6104	Coenonympha tullia	T3592	species	Ohio Butterfly Monitoring Network
 T6105	Colias cesonia	T3960	species	Ohio Butterfly Monitoring Network
-T6106	Colias eurytheme 	T3962	species	Ohio Butterfly Monitoring Network
-T6107	Colias interior 	T3965	species	Ohio Butterfly Monitoring Network
+T6106	Colias eurytheme	T3962	species	Ohio Butterfly Monitoring Network
+T6107	Colias interior	T3965	species	Ohio Butterfly Monitoring Network
 T6108	Colias philodice	T3973	species	Ohio Butterfly Monitoring Network
 T6109	Copaeodes minimus	T4140	species	Ohio Butterfly Monitoring Network
 T6110	Cyllopsis gemma	T3593	species	Ohio Butterfly Monitoring Network
 T6111	Danaus gilippus	T3597	species	Ohio Butterfly Monitoring Network
-T6112	Danaus plexippus 	T3598	species	Ohio Butterfly Monitoring Network
+T6112	Danaus plexippus	T3598	species	Ohio Butterfly Monitoring Network
 T6113	Enodia anthedon	T3607	species	Ohio Butterfly Monitoring Network
 T6114	Enodia creola	T3608	species	Ohio Butterfly Monitoring Network
 T6115	Epargyreus clarus	T4145	species	Ohio Butterfly Monitoring Network
@@ -5123,13 +5125,13 @@ T6126	Euchloe olympia	T3982	species	Ohio Butterfly Monitoring Network
 T6127	Euphydryas phaeton	T3632	species	Ohio Butterfly Monitoring Network
 T6128	Euphyes bimacula	T4169	species	Ohio Butterfly Monitoring Network
 T6129	Euphyes conspicuus	T4170	species	Ohio Butterfly Monitoring Network
-T6130	Euphyes dion 	T4171	species	Ohio Butterfly Monitoring Network
-T6131	Euphyes dukesi 	T4172	species	Ohio Butterfly Monitoring Network
+T6130	Euphyes dion	T4171	species	Ohio Butterfly Monitoring Network
+T6131	Euphyes dukesi	T4172	species	Ohio Butterfly Monitoring Network
 T6132	Euphyes vestris	T4174	species	Ohio Butterfly Monitoring Network
 T6133	Euptoieta claudia	T3633	species	Ohio Butterfly Monitoring Network
 T6134	Eurema lisa	T3987	species	Ohio Butterfly Monitoring Network
-T6135	Eurema mexicana 	T3989	species	Ohio Butterfly Monitoring Network
-T6136	Eurema nicippe 	T3990	species	Ohio Butterfly Monitoring Network
+T6135	Eurema mexicana	T3989	species	Ohio Butterfly Monitoring Network
+T6136	Eurema nicippe	T3990	species	Ohio Butterfly Monitoring Network
 T6137	Eurytides marcellus	T4018	species	Ohio Butterfly Monitoring Network
 T6138	Everes comyntas	T3814	species	Ohio Butterfly Monitoring Network
 T6139	Erynnis funeralis	T4152	species	Ohio Butterfly Monitoring Network
@@ -5224,9 +5226,9 @@ T6223	Thorybes pylades	T4308	species	Ohio Butterfly Monitoring Network
 T6224	Thymelicus lineola	T1816	species	Ohio Butterfly Monitoring Network
 T6225	Urbanus proteus	T4317	species	Ohio Butterfly Monitoring Network
 T6226	Vanessa atalanta	T3738	species	Ohio Butterfly Monitoring Network
-T6227	Vanessa cardui 	T3739	species	Ohio Butterfly Monitoring Network
-T6228	Vanessa virginiensis 	T3741	species	Ohio Butterfly Monitoring Network
-T6229	Wallengrenia egeremet 	T4323	species	Ohio Butterfly Monitoring Network
+T6227	Vanessa cardui	T3739	species	Ohio Butterfly Monitoring Network
+T6228	Vanessa virginiensis	T3741	species	Ohio Butterfly Monitoring Network
+T6229	Wallengrenia egeremet	T4323	species	Ohio Butterfly Monitoring Network
 T6230	Wallengrenia otho	T4324	species	Ohio Butterfly Monitoring Network
 T6239	Adelpha californica	T2668	species	Cascades Butterfly Project
 T6720	Colias eurytheme	T3139	species	Cascades Butterfly Project
@@ -5269,6 +5271,7 @@ T6270	Chlosyne hoffmanni	T2718	species	Cascades Butterfly Project
 T6271	Chlosyne palla	T2725	species	Cascades Butterfly Project
 T6272	Coenonympha tullia	T2732	species	Cascades Butterfly Project
 T6273	Colias alexandra	T3130	species	Cascades Butterfly Project
+T6766	Colias alexandra	T3131	species	Cascades Butterfly Project
 T6716	Colias alexandra	T3132	species	Cascades Butterfly Project
 T6275	Colias interior	T3142	species	Cascades Butterfly Project
 T6276	Colias nastes	T3145	species	Cascades Butterfly Project
@@ -5287,7 +5290,7 @@ T6288	Erynnis propertius	T3357	species	Cascades Butterfly Project
 T6289	Euchloe ausonides	T3154	species	Cascades Butterfly Project
 T6290	Euchloe lotta	T3158	species	Cascades Butterfly Project
 T6291	Euphilotes ancilla columbiae	T2968	subspecies	Cascades Butterfly Project
-T6292	Euphilotes battoides glaucon	T2964	subspecies	Cascades Butterfly Project
+T6292	Euphilotes glaucon	T2964	species	Cascades Butterfly Project
 T6293	Euphilotes enoptes	T2965	species	Cascades Butterfly Project
 T6294	Euphilotes "battoides" on-heracleoides	T2958	species	Cascades Butterfly Project
 T6295	Euphydryas anicia	T2769	species	Cascades Butterfly Project

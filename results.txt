@@ -34,7 +34,7 @@ Illinois	Eurema nicippe	Cascades		There is no match in this list (species assume
 Illinois	Nymphalis milbertii	Cascades	Aglais milberti	
 Illinois	Nymphalis vaualbum	Cascades	Nymphalis l-album	
 Orange	Adelpha bredowii	Cascades	Adelpha californica	
-Orange	Euphilotes battoides	Cascades	Euphilotes "battoides" on-heracleoides|Euphilotes battoides glaucon	
+Orange	Euphilotes battoides	Cascades	Euphilotes battoides glaucon|Euphilotes "battoides" on-heracleoides	
 Orange	Anthocharis sara	Cascades	Anthocharis sara	There is no exact match in this list. Proceed with caution. The Cascade project views this taxon as a subspecies included in the taxon by the Orange County project. These taxa may not be compatible.
 Michigan	Phyciodes selenis/cocyta	Cascades	Phyciodes cocyta	There is no exact match in this list. Proceed with caution. Exercise caution when considering subspecies.
 MPG	Aglais milberti	Cascades	Aglais milberti	
@@ -44,7 +44,7 @@ MPG	Papilio multicaudatus	Cascades	Papilio multicaudata
 Ohio	Nymphalis vau-album	Cascades	Nymphalis l-album	
 Ohio	Phyciodes selenis	Cascades	Phyciodes cocyta	There is no exact match in this list. Proceed with caution. Exercise caution when considering subspecies.
 Tennessee	Abaeis nicippe	Cascades		There is no match in this list (species assumed absent).
-MPG	Euphilotes "battoides"	Cascades	Euphilotes "battoides" on-heracleoides|Euphilotes battoides glaucon	There is no exact match in this list. Proceed with caution. "battoides" refers to a species complex that may be different between projects. Use caustion when combining.
+MPG	Euphilotes "battoides"	Cascades	Euphilotes battoides glaucon|Euphilotes "battoides" on-heracleoides	There is no exact match in this list. Proceed with caution. "battoides" refers to a species complex that may be different between projects. Use caustion when combining.
 MPG	Anthocharis sara	Cascades	Anthocharis sara	
 Cascades	Polygonia gracilis	Colorado	Polygonia zephrys|Polygonia gracilis	There is no exact match in this list. Proceed with caution. The Cascades project considers P. zephrys a subspecies of gracilis while the Colorado project considers them to be two different species. Compatible only if data from both species are combined. User must assess.
 Cascades	Celastrina echo	Colorado	Celastrina ladon	There is no exact match in this list. Proceed with caution. There is disagreement over the species and subspecies within the C. ladon complex. User should assess compatibility.
@@ -54,12 +54,12 @@ Cascades	Adelpha californica	Colorado		There is no match in this list (species a
 Cascades	Satyrium fulginosum semiluna	Colorado	Satyrium semiluna	There is no exact match in this list. Proceed with caution. Projects collect data with different taxonomic granularity. User should asses.
 Cascades	Anthocharis sara	Colorado	Anthocharis thoosa	There is no exact match in this list. Proceed with caution. The Anthocharis sara complex is poorly understood. User should assess compatibility.
 Cascades	Cercyonis sthenele	Colorado	Cercyonis sthenele	
-Cascades	Plebejus lupini	Colorado	Plebejus lupini lupini|Plebejus lupini texanus	There is no exact match in this list. Proceed with caution. Programs differ in taxonomic granularity. User should ensure compatibility.
+Cascades	Plebejus lupini	Colorado	Plebejus lupini texanus|Plebejus lupini lupini	There is no exact match in this list. Proceed with caution. Programs differ in taxonomic granularity. User should ensure compatibility.
 Cascades	Hesperia colorado	Colorado	Hesperia colorado	
-Florida	Celastrina ladon	Colorado	Celastrina humulus|Celastrina ladon	There is no exact match in this list. Proceed with caution. There is disagreement over the species and subspecies within the C. ladon complex. User should assess compatibility.
+Florida	Celastrina ladon	Colorado	Celastrina ladon|Celastrina humulus	There is no exact match in this list. Proceed with caution. There is disagreement over the species and subspecies within the C. ladon complex. User should assess compatibility.
 Florida	Celastrina neglecta	Colorado	Celastrina neglecta	
-Iowa	Celastrina ladon	Colorado	Celastrina humulus|Celastrina neglecta|Celastrina ladon	There is no exact match in this list. Proceed with caution. Projects disagree on species and subspecies within the C. ladon complex. User should assess compatibility.
-Illinois	Celastrina ladon/neglecta	Colorado	Celastrina humulus|Celastrina neglecta|Celastrina ladon	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. humulus is a species or subspecies. User must assess compatibility.
+Iowa	Celastrina ladon	Colorado	Celastrina neglecta|Celastrina ladon|Celastrina humulus	There is no exact match in this list. Proceed with caution. Projects disagree on species and subspecies within the C. ladon complex. User should assess compatibility.
+Illinois	Celastrina ladon/neglecta	Colorado	Celastrina humulus|Celastrina ladon|Celastrina neglecta	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. humulus is a species or subspecies. User must assess compatibility.
 Orange	Adelpha bredowii	Colorado	Adelpha eulalia	There is no exact match in this list. Proceed with caution. The A. bredowii concept as defined by Opler & Warren includes eulalia and californica. However, new research (Prudic et al. 2008) suggests A. bredowii does not occur in N. America, and that A. eulalia and A. californica are distinct taxa. User should asses compatibility.
 Orange	Anthocharis sara	Colorado		There is no match in this list (species assumed absent).
 Orange	Cercyonis sthenele silvestris	Colorado	Cercyonis sthenele	
@@ -71,7 +71,7 @@ MPG	Polygonia gracilis zephrys	Colorado	Polygonia zephrys	There is no exact matc
 MPG	Anthocharis sara	Colorado		There is no match in this list (species assumed absent).
 MPG	Celastrina echo	Colorado	Celastrina ladon	
 Ohio	Lycaeides melissa samuelis	Colorado	Plebejus melissa	There is no exact match in this list. Proceed with caution. Taxonomic granularity between programs does not match. User should assess compatibility.
-Ohio	Celastrina ladon	Colorado	Celastrina humulus|Celastrina ladon	There is no exact match in this list. Proceed with caution. Projects disagree on species and subspecies within the C. ladon complex. User should assess compatibility.
+Ohio	Celastrina ladon	Colorado	Celastrina ladon|Celastrina humulus	There is no exact match in this list. Proceed with caution. Projects disagree on species and subspecies within the C. ladon complex. User should assess compatibility.
 Ohio	Celastrina neglecta	Colorado	Celastrina neglecta	
 Cascades	Phyciodes cocyta	Colorado	Phyciodes cocyta	
 Michigan	Phyciodes selenis/cocyta	Colorado	Phyciodes cocyta	There is no exact match in this list. Proceed with caution. Exercise caution when considering subspecies.
@@ -83,10 +83,10 @@ Cascades	Euphyes vestris	Florida	Euphyes vestris
 Cascades	Speyeria callippe	Florida		There is no match in this list (species assumed absent).
 Colorado	Celastrina ladon	Florida	Celastrina ladon	There is no exact match in this list. Proceed with caution. There is disagreement over the species and subspecies within the C. ladon complex. User should assess compatibility.
 Colorado	Celastrina neglecta	Florida	Celastrina neglecta	
-Iowa	Celastrina ladon	Florida	Celastrina neglecta|Celastrina ladon	There is no exact match in this list. Proceed with caution. Projects disagree on species and subspecies within the C. ladon complex. User should assess compatibility.
+Iowa	Celastrina ladon	Florida	Celastrina ladon|Celastrina neglecta	There is no exact match in this list. Proceed with caution. Projects disagree on species and subspecies within the C. ladon complex. User should assess compatibility.
 Illinois	Megisto cymela	Florida	Megisto cymela cymela|Megisto cymela viola	There is no exact match in this list. Proceed with caution. Programs differ in taxonomic granularity. User should ensure compatibility.
 Illinois	Satyrium favonius	Florida	Satyrium favonius	
-Illinois	Celastrina ladon/neglecta	Florida	Celastrina neglecta|Celastrina ladon	There is no exact match in this list. Proceed with caution. Data can only be combined if ladon and neglecta from both projects are considered together.
+Illinois	Celastrina ladon/neglecta	Florida	Celastrina ladon|Celastrina neglecta	There is no exact match in this list. Proceed with caution. Data can only be combined if ladon and neglecta from both projects are considered together.
 Orange	Celastrina ladon echo	Florida	Celastrina ladon	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. echo is a species or subspecies. User must assess compatibility.
 Michigan	Satyrium favonius ontario	Florida	Satyrium favonius	There is no exact match in this list. Proceed with caution. Taxonomic granularity between programs does not match. User should assess compatibility.
 MPG	Celastrina echo	Florida	Celastrina ladon	There is no exact match in this list. Proceed with caution. There is disagreement over the species and subspecies within the C. ladon complex. User should assess compatibility.
@@ -281,11 +281,11 @@ Colorado	Celastrina neglecta	Ohio	Celastrina neglecta
 Florida	Copaeodes minima	Ohio	Copaeodes minimus	
 Florida	Celastrina ladon	Ohio	Celastrina ladon	
 Florida	Celastrina neglecta	Ohio	Celastrina neglecta	
-Iowa	Celastrina ladon	Ohio	Celastrina neglecta|Celastrina ladon	
+Iowa	Celastrina ladon	Ohio	Celastrina ladon|Celastrina neglecta	
 Illinois	Euphyes conspicua	Ohio	Euphyes conspicuus	
 Illinois	Nymphalis vaualbum	Ohio	Nymphalis vau-album	
 Illinois	Satyrium favonius	Ohio	Fixsenia favonius	
-Illinois	Celastrina ladon/neglecta	Ohio	Celastrina neglecta|Celastrina ladon	There is no exact match in this list. Proceed with caution. Data can only be combined if ladon and neglecta from both projects are considered together.
+Illinois	Celastrina ladon/neglecta	Ohio	Celastrina ladon|Celastrina neglecta	There is no exact match in this list. Proceed with caution. Data can only be combined if ladon and neglecta from both projects are considered together.
 Orange	Pyrgus albescens	Ohio		There is no match in this list (species assumed absent).
 Orange	Celastrina ladon echo	Ohio	Celastrina ladon	There is no exact match in this list. Proceed with caution. Taxonomic resolution is different between projects. User should asses compatibility.
 Michigan	Lycaeides melissa samuelis	Ohio	Lycaeides melissa samuelis	
@@ -338,6 +338,6 @@ Colorado	Celastrina humulus	Ohio	Celastrina ladon	There is no exact match in thi
 Colorado	Celastrina humulus	Orange		There is no match in this list (species assumed absent).
 Colorado	Celastrina humulus	Tennessee	Celastrina ladon/neglecta	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. humulus is a species or subspecies. User must assess compatibility.
 Michigan	Celastrina ladon/neglecta	Cascades	Celastrina echo|Celastrina lucia	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. echo and C. lucia are species or subspecies. User must assess compatibility.
-Michigan	Celastrina ladon/neglecta	Colorado	Celastrina humulus|Celastrina neglecta|Celastrina ladon	
+Michigan	Celastrina ladon/neglecta	Colorado	Celastrina humulus|Celastrina ladon|Celastrina neglecta	
 Tennessee	Celastrina ladon/neglecta	Cascades	Celastrina echo|Celastrina lucia	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. echo and C. lucia are species or subspecies. User must assess compatibility.
-Tennessee	Celastrina ladon/neglecta	Colorado	Celastrina humulus|Celastrina neglecta|Celastrina ladon	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. humulus is a species or subspecies. User must assess compatibility.
+Tennessee	Celastrina ladon/neglecta	Colorado	Celastrina neglecta|Celastrina ladon|Celastrina humulus	There is no exact match in this list. Proceed with caution. Projects use base lists that disagree on whether C. humulus is a species or subspecies. User must assess compatibility.
