@@ -4505,6 +4505,8 @@ T5503	Callophrys polios	T2924	species	MPG Ranch Butterfly Monitoring Network
 T5504	Callophrys eryphon	T2906	species	MPG Ranch Butterfly Monitoring Network
 T5506	Strymon melinus	T3061	species	MPG Ranch Butterfly Monitoring Network
 T5507	Celastrina echo	T2930	species	MPG Ranch Butterfly Monitoring Network
+T6784	Celastrina echo	T2934	species	MPG Ranch Butterfly Monitoring Network
+T6785	Celastrina echo	T2935	species	MPG Ranch Butterfly Monitoring Network
 T5508	Glaucopsyche piasus	T2976	species	MPG Ranch Butterfly Monitoring Network
 T5509	Glaucopsyche lygdamus	T2974	species	MPG Ranch Butterfly Monitoring Network
 T5580	Glaucopsyche lygdamus	T2975	species	MPG Ranch Butterfly Monitoring Network
@@ -4718,8 +4720,13 @@ T5723	Cupido amyntula	T4589	species	Colorado Butterfly Monitoring Network
 T5724	Celastrina ladon	T4579	species	Colorado Butterfly Monitoring Network
 T6763	Celastrina ladon	T4578	species	Colorado Butterfly Monitoring Network
 T5725	Celastrina neglecta	T4582	species	Colorado Butterfly Monitoring Network
+T6774	Celastrina neglecta	T4579	species	Colorado Butterfly Monitoring Network
+T6787	Celastrina neglecta	T4578	species	Colorado Butterfly Monitoring Network
+T6768	Celastrina ladon	T4582	species	Colorado Butterfly Monitoring Network
+T6769	Celastrina humulus	T4582	species	Colorado Butterfly Monitoring Network
 T5726	Celastrina humulus	T4581	species	Colorado Butterfly Monitoring Network
 T6755	Celastrina humulus	T4579	species	Colorado Butterfly Monitoring Network
+T6786	Celastrina humulus	T4578	species	Colorado Butterfly Monitoring Network
 T5727	Glaucopsyche piasus	T4620	species	Colorado Butterfly Monitoring Network
 T5728	Glaucopsyche lygdamus	T4618	species	Colorado Butterfly Monitoring Network
 T5839	Glaucopsyche lygdamus	T4619	species	Colorado Butterfly Monitoring Network
@@ -5091,7 +5098,10 @@ T6232	Celastrina ladon	T3910	species	Ohio Butterfly Monitoring Network
 T6233	Celastrina ladon	T3911	species	Ohio Butterfly Monitoring Network
 T6761	Celastrina ladon	T3779	species	Ohio Butterfly Monitoring Network
 T6762	Celastrina ladon	T3784	species	Ohio Butterfly Monitoring Network
+T6772	Celastrina ladon	T3783	species	Ohio Butterfly Monitoring Network
 T6097	Celastrina neglecta	T3783	species	Ohio Butterfly Monitoring Network
+T6770	Celastrina neglecta	T3779	species	Ohio Butterfly Monitoring Network
+T6771	Celastrina neglecta	T3784	species	Ohio Butterfly Monitoring Network
 T6098	Celastrina neglectamajor	T3785	species	Ohio Butterfly Monitoring Network
 T6099	Celastrina nigra	T3786	species	Ohio Butterfly Monitoring Network
 T6100	Cercyonis pegala	T3567	species	Ohio Butterfly Monitoring Network
@@ -5261,7 +5271,12 @@ T6261	Callophrys sheridanii	T2925	species	Cascades Butterfly Project
 T6262	Callophrys spinetorum	T2926	species	Cascades Butterfly Project
 T6263	Carterocephalus palaemon	T3316	species	Cascades Butterfly Project
 T6264	Celastrina echo	T2930	species	Cascades Butterfly Project
+T6780	Celastrina echo	T2934	species	Cascades Butterfly Project
+T6781	Celastrina echo	T2935	species	Cascades Butterfly Project
 T6265	Celastrina lucia	T2936	species	Cascades Butterfly Project
+T6779	Celastrina lucia	T2930	species	Cascades Butterfly Project
+T6782	Celastrina lucia	T2934	species	Cascades Butterfly Project
+T6783	Celastrina lucia	T2935	species	Cascades Butterfly Project
 T6266	Cercyonis oetus	T2706	species	Cascades Butterfly Project
 T6267	Cercyonis pegala	T2707	species	Cascades Butterfly Project
 T6268	Cercyonis sthenele	T2708	species	Cascades Butterfly Project
@@ -5561,7 +5576,10 @@ T6562	Calpodes ethlius	T4922	species	Florida Butterfly Monitoring Network
 T6563	Calycopis cecrops	T4576	species	Florida Butterfly Monitoring Network
 T6564	Celastrina ladon	T4579	species	Florida Butterfly Monitoring Network
 T6754	Celastrina ladon	T4578	species	Florida Butterfly Monitoring Network
+T6775	Celastrina ladon	T4583	species	Florida Butterfly Monitoring Network
 T6565	Celastrina neglecta	T4582	species	Florida Butterfly Monitoring Network
+T6776	Celastrina neglecta	T4578	species	Florida Butterfly Monitoring Network
+T6777	Celastrina neglecta	T4583	species	Florida Butterfly Monitoring Network
 T6566	Cercyonis pegala	T4372	species	Florida Butterfly Monitoring Network
 T6567	Chlorostrymon maesites	T4586	species	Florida Butterfly Monitoring Network
 T6568	Chlorostrymon simaethis	T4587	species	Florida Butterfly Monitoring Network
