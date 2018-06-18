@@ -5000,7 +5000,6 @@ T6004	Danaus plexippus	T4403	species	Orange County Butterfly Monitoring Network
 T6005	Erynnis funeralis	T4956	species	Orange County Butterfly Monitoring Network
 T6006	Erynnis tristis	T4968	species	Orange County Butterfly Monitoring Network
 T6007	Euphilotes battoides	T4604	species	Orange County Butterfly Monitoring Network
-T6747	Euphilotes battoides	T4748	species	Orange County Butterfly Monitoring Network
 T6008	Euphydryas chalcedona	T4432	species	Orange County Butterfly Monitoring Network
 T6764	Euphydryas chalcedona	T4433	species	Orange County Butterfly Monitoring Network
 T6009	Euphydryas editha	T4435	species	Orange County Butterfly Monitoring Network

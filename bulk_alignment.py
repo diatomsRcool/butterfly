@@ -2,7 +2,11 @@ import pickle
 
 #This data file contains links between taxa across projects
 in_file = open('butterfly_taxa.txt', 'r')
+
+#This data file contains the taxa you want to query
 data = open('input.txt', 'r')
+
+#This file contains the results of the query
 out_file = open('results.txt', 'w')
 
 #This dictionary links the abbreviated list names with the full names in the data file.
@@ -19,11 +23,10 @@ nope = pickle.load(open('alerts.p', 'rb'))
 
 #This code can answer the question, "What is the equivalent of Taxon A from List 1 in List 2?
 #Enter inside the quotes: 1) the full binomial or trinomial for the taxon you are starting with
-# 2) the list you are starting with, and 3) the list you are ending with
+#as it appears in the starting project 2) the list you are starting with, and 3) the list
+#you are ending with
 
 #This bit of code finds the parent id of the taxon in the starting project list.
-#At the bottom of this block, you should see the taxon and starting project list you entered 
-#above.
 def find_parent_id_start(taxon, start_list):
 	found_name = 0
 	found_source = 0
@@ -50,8 +53,6 @@ def find_parent_id_start(taxon, start_list):
 	return(parent_ids)
 
 #This code finds the taxon in the base list its parent id in the switchboard
-#At the end of this block, you should see the base list corresponding to your starting project 
-#list and the switchboard ID
 def find_switchboard_id(parent_ids):
 	found_base = 0
 	sources = []
@@ -78,7 +79,6 @@ def find_switchboard_id(parent_ids):
 	return(parent_ids_1)
 
 #This code uses the switchboard to find the taxon in the base list of the ending project list.
-#At the end of this block, you should see the base list for your ending project list.
 def find_base(parent_ids_1):
 	found_switch = 0
 	sources = []
@@ -107,9 +107,7 @@ def find_base(parent_ids_1):
 	return(taxon_ids)
 
 #This code uses the taxon id of the taxon in the base list to find the child taxon in 
-#the ending project list.
-#At the end of this block, you should see your ending project list and one or more names that 
-#are equivalent to your taxon in the starting project list.
+#the ending project list and looks up any warning messages.
 def find_taxon(end_list, taxon_ids):
 	error_message = ''
 	found_name = 0
@@ -143,10 +141,11 @@ def find_taxon(end_list, taxon_ids):
 	if found_name == 0:
 		error_message = 'There is no match in this list (species assumed absent).'
 	elif error_message != '':
-		error_message = 'There is no exact match in this list. Proceed with caution. ' + error_message
-
+		error_message = 'Proceed with caution. ' + error_message
 	return(names,error_message)
 
+#This code iterates over the input file. Each line in the file is a query. Each query
+#result is a separate line in the output file.
 next(data)
 for line in data:
 	taxon_ids = []
