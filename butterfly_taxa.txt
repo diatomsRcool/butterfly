@@ -4506,7 +4506,6 @@ T5504	Callophrys eryphon	T2906	species	MPG Ranch Butterfly Monitoring Network
 T5506	Strymon melinus	T3061	species	MPG Ranch Butterfly Monitoring Network
 T5507	Celastrina echo	T2930	species	MPG Ranch Butterfly Monitoring Network
 T6784	Celastrina echo	T2934	species	MPG Ranch Butterfly Monitoring Network
-T6785	Celastrina echo	T2935	species	MPG Ranch Butterfly Monitoring Network
 T5508	Glaucopsyche piasus	T2976	species	MPG Ranch Butterfly Monitoring Network
 T5509	Glaucopsyche lygdamus	T2974	species	MPG Ranch Butterfly Monitoring Network
 T5580	Glaucopsyche lygdamus	T2975	species	MPG Ranch Butterfly Monitoring Network
@@ -4995,6 +4994,7 @@ T5993	Callophrys augustinus	T4548	species	Orange County Butterfly Monitoring Net
 T5994	Callophrys perplexa	T4552	species	Orange County Butterfly Monitoring Network
 T6715	Callophrys perplexa	T4551	species	Orange County Butterfly Monitoring Network
 T5995	Celastrina ladon echo	T4578	subspecies	Orange County Butterfly Monitoring Network
+T6788	Celastrina ladon echo	T4582	subspecies	Orange County Butterfly Monitoring Network
 T5996	Cercyonis sthenele silvestris	T4373	subspecies	Orange County Butterfly Monitoring Network
 T5997	Chlosyne gabbii	T4380	species	Orange County Butterfly Monitoring Network
 T5998	Chlosyne leanira	T4386	species	Orange County Butterfly Monitoring Network
@@ -5578,7 +5578,6 @@ T6564	Celastrina ladon	T4579	species	Florida Butterfly Monitoring Network
 T6754	Celastrina ladon	T4578	species	Florida Butterfly Monitoring Network
 T6775	Celastrina ladon	T4583	species	Florida Butterfly Monitoring Network
 T6565	Celastrina neglecta	T4582	species	Florida Butterfly Monitoring Network
-T6776	Celastrina neglecta	T4578	species	Florida Butterfly Monitoring Network
 T6777	Celastrina neglecta	T4583	species	Florida Butterfly Monitoring Network
 T6566	Cercyonis pegala	T4372	species	Florida Butterfly Monitoring Network
 T6567	Chlorostrymon maesites	T4586	species	Florida Butterfly Monitoring Network
