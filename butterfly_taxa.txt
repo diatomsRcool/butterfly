@@ -5581,6 +5581,7 @@ T6754	Celastrina ladon	T4578	species	Florida Butterfly Monitoring Network
 T6775	Celastrina ladon	T4583	species	Florida Butterfly Monitoring Network
 T6565	Celastrina neglecta	T4582	species	Florida Butterfly Monitoring Network
 T6777	Celastrina neglecta	T4583	species	Florida Butterfly Monitoring Network
+T6791	Celastrina neglecta	T4578	species	Florida Butterfly Monitoring Network
 T6566	Cercyonis pegala	T4372	species	Florida Butterfly Monitoring Network
 T6567	Chlorostrymon maesites	T4586	species	Florida Butterfly Monitoring Network
 T6568	Chlorostrymon simaethis	T4587	species	Florida Butterfly Monitoring Network
