@@ -4457,6 +4457,7 @@ T5451	Satyrodes appalachia	T3715	species	Michigan Butterfly Network
 T5452	Satyrodes eurydice	T3716	species	Michigan Butterfly Network
 T5453	Speyeria aphrodite	T3721	species	Michigan Butterfly Network
 T5454	Speyeria atlantis	T3722	species	Michigan Butterfly Network
+T6794	Speyeria atlantis	T3723	species	Michigan Butterfly Network
 T5455	Speyeria cybele	T3726	species	Michigan Butterfly Network
 T5456	Speyeria idalia	T3731	species	Michigan Butterfly Network
 T5457	Strymon melinus	T3902	species	Michigan Butterfly Network
@@ -4763,8 +4764,6 @@ T5758	Speyeria callippe	T4523	species	Colorado Butterfly Monitoring Network
 T5759	Speyeria egleis	T4528	species	Colorado Butterfly Monitoring Network
 T5760	Speyeria atlantis	T4521	species	Colorado Butterfly Monitoring Network
 T5761	Speyeria hesperis	T4522	species	Colorado Butterfly Monitoring Network
-T6713	Speyeria atlantis	T4522	species	Colorado Butterfly Monitoring Network
-T6714	Speyeria hesperis	T4521	species	Colorado Butterfly Monitoring Network
 T5762	Speyeria hydaspe	T4529	species	Colorado Butterfly Monitoring Network
 T5763	Speyeria mormonia	T4531	species	Colorado Butterfly Monitoring Network
 T5764	Boloria eunomia	T4362	species	Colorado Butterfly Monitoring Network
@@ -4983,6 +4982,8 @@ T6062	Adelpha bredowii	T4332	species	Orange County Butterfly Monitoring Network
 T5984	Agraulis vanillae	T4335	species	Orange County Butterfly Monitoring Network
 T5985	Anthocharis sara	T4745	species	Orange County Butterfly Monitoring Network
 T6063	Anthocharis sara	T4746	species	Orange County Butterfly Monitoring Network
+T6792	Anthocharis sara	T4747	species	Orange County Butterfly Monitoring Network
+T6793	Anthocharis sara	T6752	species	Orange County Butterfly Monitoring Network
 T5986	Apodemia virgulti	T4713	species	Orange County Butterfly Monitoring Network
 T5987	Atalopedes campestris	T4905	species	Orange County Butterfly Monitoring Network
 T5988	Atlides halesus	T4544	species	Orange County Butterfly Monitoring Network
@@ -4993,7 +4994,7 @@ T5991	Calephelis nemesis	T4724	species	Orange County Butterfly Monitoring Networ
 T5992	Calephelis wrighti	T4730	species	Orange County Butterfly Monitoring Network
 T5993	Callophrys augustinus	T4548	species	Orange County Butterfly Monitoring Network
 T5994	Callophrys perplexa	T4552	species	Orange County Butterfly Monitoring Network
-T6715	Callophrys perplexa	T4551	species	Orange County Butterfly Monitoring Network
+T6715	Callophrys perplexa	T5146	species	Orange County Butterfly Monitoring Network
 T5995	Celastrina ladon echo	T4578	subspecies	Orange County Butterfly Monitoring Network
 T6788	Celastrina ladon echo	T4582	subspecies	Orange County Butterfly Monitoring Network
 T5996	Cercyonis sthenele silvestris	T4373	subspecies	Orange County Butterfly Monitoring Network
@@ -5225,6 +5226,7 @@ T6212	Satyrodes appalachia	T3715	species	Ohio Butterfly Monitoring Network
 T6213	Satyrodes eurydice	T3716	species	Ohio Butterfly Monitoring Network
 T6214	Speyeria aphrodite	T3721	species	Ohio Butterfly Monitoring Network
 T6215	Speyeria atlantis	T3722	species	Ohio Butterfly Monitoring Network
+T6795	Speyeria atlantis	T3723	species	Ohio Butterfly Monitoring Network
 T6216	Speyeria cybele	T3726	species	Ohio Butterfly Monitoring Network
 T6217	Speyeria diana	T3727	species	Ohio Butterfly Monitoring Network
 T6218	Speyeria idalia	T3731	species	Ohio Butterfly Monitoring Network
